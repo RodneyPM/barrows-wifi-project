@@ -40,15 +40,17 @@ public static class DbMigrator
 
             logger.LogInformation("Applying migration {Script}", name);
             var sql = await File.ReadAllTextAsync(path, ct);
+            await using var tx = (SqlTransaction)await conn.BeginTransactionAsync(ct);
             foreach (var batch in GoSeparator.Split(sql).Where(b => !string.IsNullOrWhiteSpace(b)))
             {
-                await ExecAsync(conn, batch, ct, timeoutSeconds: 300);
+                await ExecAsync(conn, batch, ct, timeoutSeconds: 300, tx);
             }
 
             await using var record = new SqlCommand(
-                "INSERT INTO dbo.__SchemaVersions (ScriptName, AppliedAt) VALUES (@n, SYSDATETIMEOFFSET())", conn);
+                "INSERT INTO dbo.__SchemaVersions (ScriptName, AppliedAt) VALUES (@n, SYSDATETIMEOFFSET())", conn, tx);
             record.Parameters.AddWithValue("@n", name);
             await record.ExecuteNonQueryAsync(ct);
+            await tx.CommitAsync(ct);
         }
     }
 
@@ -79,9 +81,10 @@ public static class DbMigrator
         await ExecAsync(conn, $"IF DB_ID(N'{database.Replace("'", "''")}') IS NULL CREATE DATABASE [{database.Replace("]", "]]")}];", ct);
     }
 
-    private static async Task ExecAsync(SqlConnection conn, string sql, CancellationToken ct, int timeoutSeconds = 30)
+    private static async Task ExecAsync(SqlConnection conn, string sql, CancellationToken ct, int timeoutSeconds = 30,
+        SqlTransaction? tx = null)
     {
-        await using var cmd = new SqlCommand(sql, conn) { CommandTimeout = timeoutSeconds };
+        await using var cmd = new SqlCommand(sql, conn, tx) { CommandTimeout = timeoutSeconds };
         await cmd.ExecuteNonQueryAsync(ct);
     }
 }
