@@ -1,0 +1,1601 @@
+stp_number,name,province,latitude,longitude,owner_name,ap_status,is_active
+075865,Nandi's Hair Studio,Free State,-28.993011,26.254354,Tshepo Nel,Online,true
+047649,Tshepo & Sons Tavern,Limpopo,-23.200543,30.477131,Musa Radebe,NotInstalled,false
+858237,Market Tuck Shop,KwaZulu-Natal,-28.831676,31.952113,Khanyi Radebe,Online,true
+681381,Junction Pub & Grill,KwaZulu-Natal,-29.876594,31.094412,Musa Shabalala,Online,true
+126608,Petersen General Dealer,Western Cape,-33.848548,18.535154,Lindiwe Cele,Offline,true
+807058,Refilwe's Lounge,KwaZulu-Natal,-28.766349,32.079041,Gugu Mabaso,Online,true
+029640,Junction Shisanyama,Western Cape,-33.850239,18.772851,Musa Cele,Online,true
+135253,Baloyi General Dealer,Mpumalanga,-25.882963,29.330256,Palesa Shabalala,Online,true
+622632,Karabo's Tavern,KwaZulu-Natal,-29.541188,30.358115,Karabo Nel,Online,true
+359876,Ext 4 Forecourt,Gauteng,-26.143655,28.156828,Tshepo Khumalo,Online,true
+088398,Hostel Pub & Grill,Mpumalanga,-25.972536,29.295853,Nandi Mabaso,Online,true
+211289,Ext 4 Pub & Grill,KwaZulu-Natal,-29.96637,30.985084,Gugu Ngcobo,Online,true
+621739,Petersen General Dealer,Free State,-29.168266,26.164307,Vusi Mokoena,Online,true
+281785,Sello's Lounge,Gauteng,-26.22257,28.044565,Sipho Khumalo,Online,true
+244411,Nandi's Salon,Gauteng,-25.774307,28.211385,Palesa Radebe,Online,true
+954583,Ndlovu Liquor Store,KwaZulu-Natal,-30.044529,30.94164,Precious Ndlovu,Online,true
+576172,Palesa's Hair Studio,Western Cape,-34.039886,18.698753,Themba Radebe,Online,true
+750939,Jabu's Lounge,Eastern Cape,-31.528601,28.839833,Kagiso Ndlovu,Online,true
+817799,Mandla's Salon,Gauteng,-26.214434,27.783019,Bongani Sithole,Offline,true
+114544,Mandla's Salon,KwaZulu-Natal,-28.801213,31.922003,Ayanda Ndlovu,Online,true
+578197,Phase 2 Shisanyama,Western Cape,-33.909388,18.589123,Thandi Shabalala,NotInstalled,false
+363798,Hill Forecourt,KwaZulu-Natal,-28.886869,32.089941,Jabu Ndlovu,Online,true
+121254,Ayanda's Place,KwaZulu-Natal,-28.853312,31.931775,Ayanda Nkosi,Online,true
+787655,Mabaso Liquor Store,Gauteng,-26.088849,28.022133,Nandi Molefe,Online,true
+080953,Vusi's Salon,Eastern Cape,-32.889905,27.935485,Gugu Shabalala,Online,true
+722487,Village Pub & Grill,Gauteng,-25.735184,28.265351,Tumi Nkosi,Online,true
+593402,Park Shisanyama,Gauteng,-25.704906,28.316206,Precious Ngcobo,Offline,true
+579786,Refilwe's Lounge,KwaZulu-Natal,-29.871715,30.978617,Nandi Khumalo,Online,true
+975623,Taxi Rank Pub & Grill,KwaZulu-Natal,-29.896112,30.970388,Musa Khumalo,Online,true
+991092,Mkhize Liquor Store,Mpumalanga,-25.855369,29.36473,Themba Baloyi,Online,true
+374143,Jabu's Salon,Gauteng,-26.287056,28.078546,Andile Khumalo,NotInstalled,true
+543183,Tumi Spaza,KwaZulu-Natal,-29.547325,30.266483,Sipho Ndlovu,Online,true
+049668,Mandla's Place,Gauteng,-25.724021,28.168857,Bongani Mabaso,Online,true
+072178,Ko Andile's Spot,North West,-25.654258,27.181286,Andile Mokoena,Online,true
+378191,Junction Car Wash & Chill,Eastern Cape,-34.040398,25.586023,Tshepo Mabaso,Online,true
+822637,Zulu General Dealer,North West,-25.877672,25.712778,Kagiso Shabalala,Online,true
+566038,Lindiwe's Place,Gauteng,-26.29555,28.08923,Precious Sithole,Online,true
+053144,Tshepo's Lounge,Eastern Cape,-33.080499,27.930817,Busi Shabalala,Online,true
+859626,Ko Lwazi's Spot,Gauteng,-26.253659,27.799022,Nandi Cele,Online,true
+038818,Zulu General Dealer,Western Cape,-33.876346,18.644475,Precious Petersen,Online,true
+665141,Thandi's Lounge,Limpopo,-23.987102,29.582255,Themba Sithole,Online,true
+686319,Hill Pub & Grill,Gauteng,-26.25909,28.027989,Vusi Cele,Online,true
+736072,Lerato Spaza,KwaZulu-Natal,-29.875018,31.018351,Sipho Cele,Online,true
+386926,Hill Tuck Shop,KwaZulu-Natal,-30.014024,30.956618,Refilwe Cele,Online,true
+612999,Market Pub & Grill,Gauteng,-26.301381,27.757236,Dumisani Adams,Online,true
+319855,Corner Pub & Grill,KwaZulu-Natal,-29.597316,30.449404,Tumi Radebe,NotInstalled,true
+678089,Nkosi Liquor Store,Eastern Cape,-33.905902,25.513702,Refilwe Mahlangu,Online,true
+579507,Adams General Dealer,Gauteng,-26.143774,28.090482,Sipho Sithole,Online,true
+099180,Lerato's Tavern,Eastern Cape,-33.864768,25.517155,Mandla Radebe,Online,true
+271767,Themba's Lounge,KwaZulu-Natal,-29.877218,31.005752,Tshepo Zulu,Online,true
+581701,Mkhize General Dealer,Mpumalanga,-25.353377,31.016343,Zanele Zulu,Online,true
+812006,Siya & Sons Tavern,Western Cape,-34.017265,18.352956,Sipho Mkhize,NotInstalled,false
+517649,Andile's Place,Gauteng,-26.335551,28.098541,Lindiwe Mkhize,Online,true
+763793,Mokoena General Dealer,Western Cape,-33.919995,18.6583,Andile Mkhize,Online,true
+953104,Karabo & Sons Tavern,Gauteng,-26.30477,27.93735,Thandi Petersen,Online,true
+240845,Ext 4 Tuck Shop,Gauteng,-26.205554,28.065044,Bongani Petersen,Online,true
+593649,Shabalala General Dealer,Gauteng,-26.061891,28.032709,Naledi Petersen,Online,true
+719238,Baloyi Liquor Store,KwaZulu-Natal,-29.858951,30.954256,Kagiso Sithole,Online,true
+552680,Ko Themba's Spot,Mpumalanga,-25.500967,31.073984,Khanyi Zulu,Online,true
+946988,Thabo's Tavern,Gauteng,-26.130853,28.02712,Musa Mahlangu,Online,true
+138110,Junction Tuck Shop,Gauteng,-26.418235,28.140375,Thandi Baloyi,Online,true
+604847,Ko Busi's Spot,Gauteng,-26.283698,27.943022,Lerato Cele,Offline,true
+275737,Andile & Sons Tavern,KwaZulu-Natal,-29.601736,30.272174,Thandi Mokoena,Online,true
+193715,Park Forecourt,KwaZulu-Natal,-29.679423,30.298901,Mpho Mthembu,NotInstalled,false
+019740,Market Tuck Shop,Eastern Cape,-33.845367,25.618254,Lindiwe Ngcobo,Online,true
+059747,Lwazi's Place,Gauteng,-26.076576,28.0977,Sipho Adams,Online,true
+418493,Refilwe's Tavern,Western Cape,-33.917564,18.715944,Lwazi Mahlangu,Online,true
+886949,Refilwe's Salon,Free State,-28.069848,26.645522,Sipho Maseko,Online,true
+105252,Karabo & Sons Tavern,KwaZulu-Natal,-29.955604,31.101467,Precious Maseko,Online,true
+752272,Mandla's Tavern,KwaZulu-Natal,-28.694299,32.114637,Busi Zulu,NotInstalled,true
+796979,Lwazi & Sons Tavern,Gauteng,-26.268937,27.958128,Busi Petersen,Online,true
+827299,Market Shisanyama,Gauteng,-26.169384,28.058781,Refilwe Mahlangu,Online,true
+493376,Section B Forecourt,Western Cape,-34.066598,18.653711,Refilwe Shabalala,Online,true
+797126,Dumisani's Tavern,Mpumalanga,-25.793197,29.219574,Nandi Baloyi,Online,true
+496268,Petersen General Dealer,KwaZulu-Natal,-29.953022,30.953473,Themba Shabalala,Online,true
+206428,Station Forecourt,Gauteng,-26.19805,28.081057,Refilwe Dlamini,Online,true
+583319,Mkhize General Dealer,Western Cape,-33.890425,18.502516,Lwazi Petersen,Online,true
+564897,Siya's Tavern,KwaZulu-Natal,-29.758343,31.03398,Thandi Shabalala,Offline,true
+570622,Siya's Salon,KwaZulu-Natal,-29.739251,30.999637,Naledi Shabalala,Online,true
+731775,Taxi Rank Car Wash & Chill,Western Cape,-34.10875,18.691068,Bongani Shabalala,Offline,true
+377046,Palesa's Salon,Gauteng,-26.23798,28.107586,Lerato Mkhize,Online,true
+874329,Karabo's Hair Studio,Mpumalanga,-25.942896,29.359175,Refilwe Mthembu,Online,true
+730057,Ayanda's Lounge,Western Cape,-34.004426,18.801065,Siya Petersen,Online,true
+058841,Main Road Forecourt,Mpumalanga,-25.811439,29.244094,Thabo Radebe,Online,true
+110507,Mkhize Liquor Store,KwaZulu-Natal,-30.076435,30.822554,Nomsa Ndlovu,Online,true
+844115,Hill Forecourt,Gauteng,-25.815512,28.127998,Thandi Ndlovu,Online,true
+157001,Ndlovu Liquor Store,Gauteng,-26.114298,27.982352,Bongani Nel,Offline,true
+083642,Karabo's Tavern,Eastern Cape,-33.005151,27.835742,Nandi Sithole,Online,true
+850644,Gugu's Lounge,Gauteng,-25.995841,28.035721,Lindiwe Dlamini,Online,true
+382842,Mahlangu Liquor Store,Free State,-27.971273,26.651179,Jabu Dlamini,Offline,true
+476868,Section B Shisanyama,KwaZulu-Natal,-29.77291,30.904209,Sello Ngcobo,Online,true
+964163,Corner Shisanyama,KwaZulu-Natal,-29.609244,30.342853,Musa Ndlovu,Online,true
+896982,Petersen Liquor Store,Gauteng,-26.274111,27.956772,Nomsa Mkhize,Online,true
+135686,Mandla's Place,North West,-25.723221,27.216224,Musa Shabalala,Online,true
+836169,Junction Shisanyama,North West,-25.565368,27.191861,Sello Mkhize,Online,true
+051732,Ko Lwazi's Spot,Gauteng,-25.992713,28.137883,Vusi Nkosi,Online,true
+612329,Khanyi's Salon,Eastern Cape,-33.930715,25.564341,Andile Mabaso,Online,true
+894780,Lerato's Hair Studio,Limpopo,-23.091527,30.427025,Gugu Mabaso,Online,true
+354754,Ext 4 Tuck Shop,KwaZulu-Natal,-29.653817,30.310611,Gugu Radebe,Online,true
+416202,Siya & Sons Tavern,Gauteng,-26.158924,28.133776,Dumisani Radebe,Offline,true
+838973,Naledi's Place,Free State,-27.911657,26.849824,Sello Mthembu,Online,true
+911326,Thandi's Hair Studio,Gauteng,-26.23846,27.850462,Jabu Mokoena,Online,true
+948764,Tumi's Place,Gauteng,-26.014293,28.059362,Precious Ndlovu,Online,true
+441459,Precious's Salon,Limpopo,-22.975498,30.326962,Themba Nel,Offline,true
+642938,Precious's Tavern,Eastern Cape,-31.691052,28.796285,Palesa Mabaso,NotInstalled,false
+874515,Lerato's Lounge,KwaZulu-Natal,-29.965567,30.905619,Kagiso Dlamini,Online,true
+213486,Station Shisanyama,KwaZulu-Natal,-29.931,31.094659,Lerato Radebe,Online,true
+628001,Mpho's Place,KwaZulu-Natal,-29.763563,31.133731,Refilwe Mabaso,Online,true
+013727,Village Shisanyama,Gauteng,-25.640483,28.121248,Thabo Dlamini,Online,true
+190647,Station Car Wash & Chill,Mpumalanga,-25.96914,29.353405,Lerato Mokoena,Offline,true
+636017,Karabo's Hair Studio,Eastern Cape,-33.894536,25.689145,Lwazi Cele,Online,true
+277789,Sello's Tavern,Gauteng,-26.42979,28.243568,Kagiso Cele,Online,true
+485673,Kasi Car Wash & Chill,KwaZulu-Natal,-29.946217,31.041946,Sipho Mabaso,Online,true
+429329,Ndlovu General Dealer,Gauteng,-25.995261,27.991855,Nandi Baloyi,Online,true
+367178,Hostel Shisanyama,KwaZulu-Natal,-29.945547,30.930278,Nandi Mabaso,Online,true
+791192,Kagiso's Lounge,Mpumalanga,-25.58224,31.040678,Lindiwe Dlamini,Online,true
+334538,Khanyi's Tavern,Free State,-29.016988,26.203449,Ayanda Mkhize,NotInstalled,false
+026009,Station Tuck Shop,Gauteng,-26.009194,27.949793,Lindiwe Ngcobo,Offline,true
+880645,Main Road Tuck Shop,KwaZulu-Natal,-29.483641,30.372346,Lerato Adams,Online,true
+522378,Mabaso General Dealer,Western Cape,-34.022385,18.430966,Lerato Dlamini,Online,true
+898885,Molefe General Dealer,Eastern Cape,-32.958961,27.826954,Jabu Mabaso,Offline,true
+057437,Hill Tuck Shop,Gauteng,-26.219493,28.137948,Gugu Mokoena,NotInstalled,true
+483684,Mkhize Liquor Store,Gauteng,-26.254866,27.746985,Mandla Ngcobo,Online,true
+035486,Themba's Hair Studio,North West,-25.752877,27.206195,Themba Dlamini,Online,true
+243862,Ko Busi's Spot,Western Cape,-33.973629,18.692556,Sipho Baloyi,Online,true
+767489,Ayanda Spaza,Gauteng,-25.777913,28.140999,Busi Baloyi,Offline,true
+928206,Hostel Car Wash & Chill,KwaZulu-Natal,-29.992042,30.886387,Themba Sithole,Online,true
+812340,Bongani Spaza,Gauteng,-25.686384,28.212609,Tshepo Sithole,Online,true
+389315,Village Forecourt,Mpumalanga,-25.971632,29.282563,Lwazi Dlamini,Online,true
+111267,Station Pub & Grill,Western Cape,-33.963836,18.367688,Thandi Petersen,Online,true
+110649,Petersen Liquor Store,Western Cape,-33.984493,18.641109,Lerato Molefe,Online,true
+356021,Thabo & Sons Tavern,Limpopo,-23.826156,29.442256,Dumisani Radebe,Online,true
+083693,Siya Spaza,KwaZulu-Natal,-29.81996,31.115342,Lerato Nel,Online,true
+360339,Ko Thabo's Spot,Eastern Cape,-31.560934,28.685625,Tshepo Shabalala,Online,true
+951697,Adams Liquor Store,Gauteng,-26.119425,27.931353,Siya Petersen,Online,true
+622467,Lindiwe's Salon,KwaZulu-Natal,-29.81023,31.078029,Busi Mokoena,Online,true
+942458,Cele General Dealer,KwaZulu-Natal,-29.680854,30.309248,Karabo Petersen,Online,true
+974894,Mpho's Lounge,Free State,-28.02513,26.769161,Andile Mahlangu,Online,true
+326971,Corner Car Wash & Chill,Gauteng,-25.692864,28.278621,Themba Maseko,Online,true
+907110,Zanele's Tavern,Gauteng,-26.380452,28.255955,Kagiso Adams,Online,true
+158745,Section B Shisanyama,KwaZulu-Natal,-29.639899,30.489124,Gugu Ndlovu,Online,true
+257757,Musa's Hair Studio,KwaZulu-Natal,-29.808804,31.116419,Bongani Mokoena,Online,true
+085065,Nkosi General Dealer,KwaZulu-Natal,-28.699372,32.046257,Precious Baloyi,Online,true
+010098,Nkosi Liquor Store,Gauteng,-25.852545,28.296981,Sipho Mkhize,Online,true
+175144,Nandi's Tavern,Western Cape,-33.893999,18.803072,Bongani Nkosi,Online,true
+423585,Tshepo's Lounge,KwaZulu-Natal,-28.87623,32.003453,Naledi Petersen,Online,true
+032513,Themba's Place,KwaZulu-Natal,-29.77383,31.048274,Nomsa Sithole,Online,true
+928350,Adams Liquor Store,Gauteng,-25.751339,28.164564,Karabo Nel,Online,true
+402548,Thabo's Salon,Gauteng,-26.154764,28.152908,Lerato Mabaso,Online,true
+885590,Precious & Sons Tavern,Limpopo,-23.84327,29.392403,Bongani Baloyi,Online,true
+776328,Ko Khanyi's Spot,KwaZulu-Natal,-29.926748,31.020557,Jabu Mahlangu,Online,true
+789884,Thandi's Place,Gauteng,-26.23022,27.797576,Precious Molefe,Online,true
+565059,Sithole Liquor Store,KwaZulu-Natal,-29.930275,30.834355,Precious Mokoena,Online,true
+782903,Hostel Shisanyama,Gauteng,-26.080105,28.012065,Khanyi Mthembu,Online,true
+068519,Tshepo's Salon,North West,-25.88425,25.647553,Dumisani Mabaso,Online,true
+113340,Mkhize Liquor Store,Gauteng,-26.256301,27.769296,Themba Radebe,Offline,true
+565564,Ko Musa's Spot,KwaZulu-Natal,-29.996091,30.940136,Mpho Ndlovu,Online,true
+779054,Khanyi's Salon,KwaZulu-Natal,-30.005671,30.919938,Sello Adams,Online,true
+617925,Junction Pub & Grill,KwaZulu-Natal,-29.703889,30.473639,Thandi Mokoena,Online,true
+308948,Thabo's Place,KwaZulu-Natal,-28.890602,31.966264,Karabo Mahlangu,Online,true
+578474,Maseko Liquor Store,KwaZulu-Natal,-28.773255,32.032358,Lwazi Sithole,Online,true
+060483,Sello's Place,Western Cape,-34.037815,18.726711,Gugu Mthembu,Online,true
+225167,Karabo & Sons Tavern,Gauteng,-26.396025,28.18537,Gugu Sithole,Online,true
+334886,Zone 7 Shisanyama,Gauteng,-26.29892,27.975059,Palesa Maseko,Online,true
+141500,Refilwe's Place,Western Cape,-34.103798,18.623482,Refilwe Zulu,Online,true
+636682,Petersen Liquor Store,North West,-25.567041,27.1463,Gugu Sithole,Offline,true
+442120,Corner Forecourt,Free State,-28.002274,26.819072,Lindiwe Dlamini,Online,true
+058347,Main Road Car Wash & Chill,Mpumalanga,-25.388529,31.028814,Lwazi Mkhize,Online,true
+178125,Ko Mpho's Spot,Gauteng,-26.352711,27.940486,Refilwe Shabalala,Online,true
+760884,Lerato's Salon,KwaZulu-Natal,-29.974466,31.104526,Dumisani Ngcobo,Offline,true
+836109,Nkosi Liquor Store,Gauteng,-26.262619,27.863918,Themba Khumalo,Online,true
+134940,Zulu Liquor Store,KwaZulu-Natal,-29.667829,30.380026,Lwazi Nel,Online,true
+747046,Lwazi's Hair Studio,Gauteng,-26.13888,27.992713,Naledi Mthembu,Online,true
+183633,Village Shisanyama,Western Cape,-34.00411,18.804612,Themba Petersen,Offline,true
+895261,Karabo's Lounge,Eastern Cape,-31.611255,28.816141,Naledi Maseko,Online,true
+074759,Section B Shisanyama,KwaZulu-Natal,-30.074436,30.993168,Gugu Mabaso,Online,true
+684581,Ext 4 Tuck Shop,Limpopo,-23.83314,29.462446,Gugu Zulu,Online,true
+060342,Precious Spaza,Free State,-27.984896,26.646605,Tshepo Sithole,NotInstalled,true
+225238,Corner Forecourt,Gauteng,-26.206549,28.024571,Mandla Ngcobo,Online,true
+454907,Ext 4 Forecourt,KwaZulu-Natal,-29.909212,30.903093,Zanele Baloyi,Offline,true
+908202,Sipho's Tavern,Gauteng,-25.671395,28.250364,Mandla Molefe,NotInstalled,true
+507668,Dumisani's Salon,Gauteng,-26.08466,28.148197,Karabo Petersen,Online,true
+628755,Station Car Wash & Chill,Western Cape,-33.933007,18.413119,Jabu Khumalo,Online,true
+837023,Hostel Tuck Shop,KwaZulu-Natal,-29.615997,30.390931,Thandi Mthembu,Online,true
+296754,Vusi & Sons Tavern,Gauteng,-25.757841,28.292416,Sello Dlamini,NotInstalled,false
+022065,Mandla Spaza,Gauteng,-26.249451,28.089391,Nomsa Ngcobo,Online,true
+038428,Baloyi Liquor Store,Gauteng,-26.067498,28.052206,Jabu Mthembu,Online,true
+576379,Taxi Rank Forecourt,Gauteng,-26.143309,28.128558,Tumi Shabalala,Online,true
+234994,Nomsa & Sons Tavern,Eastern Cape,-34.068378,25.50263,Palesa Maseko,Online,true
+547578,Nel General Dealer,KwaZulu-Natal,-29.940387,30.83441,Sello Mokoena,Online,true
+694716,Phase 2 Tuck Shop,KwaZulu-Natal,-28.662334,31.925793,Thandi Sithole,Online,true
+870064,Market Tuck Shop,Western Cape,-34.034106,18.4112,Sipho Cele,Online,true
+734871,Tshepo's Tavern,KwaZulu-Natal,-28.667965,31.991181,Lindiwe Radebe,Online,true
+067176,Lerato's Tavern,North West,-25.900641,25.603567,Karabo Shabalala,Online,true
+364993,Mpho Spaza,Free State,-27.930631,26.756827,Dumisani Mahlangu,Online,true
+921070,Taxi Rank Tuck Shop,Western Cape,-34.038174,18.619961,Musa Nel,Online,true
+758093,Taxi Rank Car Wash & Chill,Limpopo,-23.036535,30.293933,Sipho Adams,Online,true
+085600,Maseko Liquor Store,KwaZulu-Natal,-29.913645,30.970624,Zanele Mabaso,Offline,true
+455274,Palesa's Tavern,KwaZulu-Natal,-29.79836,31.140107,Musa Baloyi,Online,true
+398309,Andile's Hair Studio,KwaZulu-Natal,-29.999082,30.825942,Tshepo Adams,NotInstalled,false
+658437,Corner Shisanyama,KwaZulu-Natal,-29.970015,30.91952,Kagiso Nkosi,Online,true
+930590,Molefe Liquor Store,Gauteng,-26.017634,28.056539,Siya Mahlangu,Offline,true
+924468,Sello's Place,Gauteng,-26.30345,27.937144,Mandla Mthembu,Online,true
+517662,Themba's Lounge,Limpopo,-24.016839,29.370755,Nomsa Mabaso,Online,true
+011341,Vusi Spaza,Western Cape,-33.950658,18.650594,Lwazi Dlamini,Online,true
+481667,Ko Andile's Spot,KwaZulu-Natal,-29.947967,31.115881,Zanele Zulu,Online,true
+060182,Adams Liquor Store,Western Cape,-34.03432,18.344499,Naledi Adams,Online,true
+881801,Lwazi's Tavern,Limpopo,-23.819272,29.382227,Themba Nel,Online,true
+228332,Gugu's Place,Mpumalanga,-25.556822,30.920341,Thabo Mkhize,NotInstalled,true
+690533,Ko Tumi's Spot,Eastern Cape,-31.48969,28.759819,Lwazi Radebe,Online,true
+020794,Tumi's Place,Limpopo,-23.080965,30.429624,Tumi Shabalala,Online,true
+215808,Ayanda's Salon,Gauteng,-25.705132,28.338794,Jabu Radebe,Online,true
+053300,Vusi's Salon,KwaZulu-Natal,-29.654746,30.266358,Vusi Adams,NotInstalled,true
+720298,Ko Musa's Spot,Gauteng,-26.307925,27.990412,Kagiso Nkosi,Offline,true
+397779,Taxi Rank Car Wash & Chill,Eastern Cape,-31.693844,28.790095,Lerato Mokoena,Online,true
+161581,Thabo's Tavern,Gauteng,-26.291863,27.804258,Thandi Mabaso,Online,true
+596983,Lwazi's Lounge,Mpumalanga,-25.505319,30.920753,Nomsa Nkosi,Online,true
+563722,Zone 7 Forecourt,Gauteng,-25.85751,28.33561,Busi Cele,Online,true
+027421,Ko Refilwe's Spot,North West,-25.607288,27.162478,Jabu Nel,Offline,true
+696033,Sello's Tavern,Eastern Cape,-31.68776,28.709687,Lindiwe Shabalala,Online,true
+221435,Dumisani's Place,KwaZulu-Natal,-28.748884,32.012875,Busi Mahlangu,Online,true
+829993,Mandla's Salon,Limpopo,-23.06562,30.349583,Siya Sithole,Online,true
+623060,Park Forecourt,Limpopo,-23.855942,29.42557,Lerato Petersen,Online,true
+038159,Ngcobo General Dealer,Gauteng,-26.249775,27.817648,Thandi Maseko,Online,true
+477553,Hill Tuck Shop,Gauteng,-25.744832,28.190865,Bongani Nkosi,Online,true
+205078,Village Tuck Shop,Gauteng,-26.290502,28.159792,Nomsa Molefe,Online,true
+404849,Lwazi's Place,KwaZulu-Natal,-29.559492,30.379673,Busi Nkosi,Online,true
+526811,Nandi's Place,KwaZulu-Natal,-28.899121,32.088191,Karabo Nkosi,Online,true
+785550,Kagiso & Sons Tavern,KwaZulu-Natal,-29.596119,30.334118,Lwazi Mkhize,Online,true
+958359,Busi & Sons Tavern,KwaZulu-Natal,-28.806908,32.103073,Lerato Mahlangu,Online,true
+999161,Tshepo's Tavern,Eastern Cape,-34.05599,25.611036,Musa Mahlangu,Online,true
+612696,Taxi Rank Car Wash & Chill,KwaZulu-Natal,-28.745855,32.111361,Sello Petersen,Online,true
+853468,Nomsa's Place,Gauteng,-26.077997,27.988215,Bongani Maseko,Online,true
+998549,Hostel Car Wash & Chill,KwaZulu-Natal,-29.700665,30.3581,Musa Shabalala,Online,true
+832690,Musa Spaza,Mpumalanga,-25.823228,29.227093,Lerato Radebe,Online,true
+998183,Hill Pub & Grill,Eastern Cape,-33.039239,27.781251,Dumisani Ndlovu,Online,true
+498435,Maseko Liquor Store,Eastern Cape,-32.928441,27.918905,Bongani Zulu,Online,true
+507037,Thandi's Tavern,Limpopo,-23.147146,30.441956,Nomsa Shabalala,Online,true
+469018,Section B Tuck Shop,Western Cape,-34.047988,18.534206,Zanele Khumalo,Online,true
+746627,Lindiwe's Tavern,KwaZulu-Natal,-29.97257,30.98051,Lerato Maseko,Online,true
+262866,Ext 4 Pub & Grill,Western Cape,-33.888031,18.347171,Thabo Sithole,Online,true
+800870,Zanele's Salon,Free State,-28.092352,26.841835,Mpho Maseko,Online,true
+046304,Thabo's Salon,KwaZulu-Natal,-29.91363,30.956357,Refilwe Mokoena,Online,true
+891941,Lindiwe Spaza,Gauteng,-26.311294,27.819102,Lerato Mthembu,Online,true
+178936,Market Pub & Grill,Eastern Cape,-34.005206,25.647123,Thandi Adams,Online,true
+494037,Park Tuck Shop,Eastern Cape,-34.038408,25.578171,Nandi Mkhize,Online,true
+643399,Molefe General Dealer,Free State,-27.951515,26.755208,Precious Baloyi,Online,true
+458020,Junction Pub & Grill,Gauteng,-26.149095,27.994634,Mpho Ngcobo,NotInstalled,true
+624067,Taxi Rank Shisanyama,Gauteng,-26.262378,27.78596,Ayanda Mahlangu,Online,true
+782203,Junction Car Wash & Chill,Western Cape,-34.165836,18.513123,Nandi Mokoena,NotInstalled,true
+587641,Lerato's Hair Studio,Gauteng,-26.21503,28.203105,Tshepo Nkosi,Online,true
+219266,Tshepo Spaza,Western Cape,-33.867687,18.506372,Gugu Mahlangu,Offline,true
+278825,Ext 4 Shisanyama,North West,-25.77907,25.673471,Dumisani Mthembu,Online,true
+997831,Kasi Shisanyama,Gauteng,-26.383055,27.759505,Palesa Nel,Online,true
+221454,Nomsa's Hair Studio,Gauteng,-26.204122,27.936822,Musa Adams,Online,true
+537466,Phase 2 Car Wash & Chill,KwaZulu-Natal,-29.914565,31.054474,Busi Mthembu,Online,true
+438079,Corner Pub & Grill,Gauteng,-26.337701,28.201983,Jabu Shabalala,Online,true
+572530,Gugu's Place,Eastern Cape,-32.962662,27.848869,Tshepo Cele,Online,true
+487126,Ext 4 Pub & Grill,Gauteng,-25.721375,28.19924,Zanele Maseko,Online,true
+043831,Hill Pub & Grill,Mpumalanga,-25.798248,29.212824,Sipho Adams,NotInstalled,false
+866960,Precious & Sons Tavern,Northern Cape,-28.801076,24.851815,Tumi Dlamini,Online,true
+439517,Refilwe Spaza,Gauteng,-25.866078,28.342565,Precious Zulu,Online,true
+921631,Village Tuck Shop,KwaZulu-Natal,-29.521371,30.304482,Themba Baloyi,Offline,true
+930977,Palesa Spaza,Free State,-28.085148,26.634697,Themba Baloyi,Online,true
+789976,Ko Tumi's Spot,Gauteng,-26.177242,27.921758,Lerato Zulu,Online,true
+813915,Station Shisanyama,Gauteng,-26.43529,28.163993,Naledi Petersen,Online,true
+204149,Hill Shisanyama,North West,-25.761337,25.752935,Palesa Dlamini,Online,true
+369714,Nandi's Hair Studio,KwaZulu-Natal,-28.773948,32.054314,Musa Nkosi,Online,true
+397214,Station Forecourt,KwaZulu-Natal,-29.998351,30.850466,Naledi Ndlovu,Online,true
+704415,Zone 7 Car Wash & Chill,Gauteng,-26.375167,27.921794,Vusi Zulu,Online,true
+752591,Tshepo's Place,Mpumalanga,-25.818509,29.316059,Siya Sithole,Online,true
+082226,Jabu & Sons Tavern,KwaZulu-Natal,-28.851924,32.060744,Lwazi Adams,NotInstalled,true
+060152,Mandla Spaza,Gauteng,-26.086265,27.976565,Naledi Khumalo,Online,true
+591579,Hill Shisanyama,Northern Cape,-28.690805,24.848426,Sello Mabaso,Online,true
+426018,Bongani's Salon,Mpumalanga,-25.47277,30.961184,Themba Dlamini,Online,true
+706057,Andile & Sons Tavern,Gauteng,-26.143478,28.055846,Siya Adams,Online,true
+375156,Vusi's Lounge,KwaZulu-Natal,-29.972196,31.080864,Bongani Adams,Online,true
+418390,Sello's Salon,Gauteng,-26.320509,27.973858,Vusi Dlamini,Online,true
+421426,Tshepo Spaza,Mpumalanga,-25.93459,29.334456,Thabo Cele,Online,true
+506873,Sithole Liquor Store,Free State,-29.087919,26.24591,Bongani Baloyi,Online,true
+919423,Ko Sello's Spot,Mpumalanga,-25.407169,31.048353,Palesa Shabalala,Online,true
+279096,Ndlovu Liquor Store,Mpumalanga,-25.802415,29.248399,Kagiso Adams,Online,true
+259699,Section B Pub & Grill,Gauteng,-26.31585,28.141467,Andile Mokoena,Online,true
+256952,Ko Naledi's Spot,North West,-25.768979,25.682865,Ayanda Sithole,Online,true
+628506,Section B Tuck Shop,Gauteng,-26.200447,27.936866,Refilwe Cele,Online,true
+720971,Ko Zanele's Spot,Gauteng,-26.248203,28.158212,Thabo Mabaso,Online,true
+195732,Station Shisanyama,KwaZulu-Natal,-28.86585,32.011291,Khanyi Mthembu,Online,true
+070633,Kagiso Spaza,North West,-25.681526,27.198805,Vusi Mahlangu,NotInstalled,false
+052102,Mabaso Liquor Store,Gauteng,-26.28953,28.155932,Themba Mkhize,Online,true
+661504,Sello Spaza,North West,-25.921174,25.579475,Thabo Mahlangu,Online,true
+030191,Section B Forecourt,Western Cape,-34.036744,18.517998,Nomsa Sithole,Online,true
+624635,Mokoena Liquor Store,KwaZulu-Natal,-30.02748,30.983046,Lerato Ndlovu,Online,true
+406041,Andile's Tavern,Eastern Cape,-32.979271,27.793334,Nandi Mokoena,NotInstalled,true
+538536,Hill Pub & Grill,Eastern Cape,-33.046428,27.748748,Musa Ngcobo,Online,true
+624850,Naledi & Sons Tavern,Limpopo,-23.955681,29.466962,Lindiwe Sithole,Online,true
+506715,Andile's Hair Studio,Limpopo,-24.011463,29.51338,Vusi Zulu,Offline,true
+665302,Lindiwe's Place,Mpumalanga,-25.99274,29.265909,Busi Khumalo,Online,true
+961597,Sithole Liquor Store,Mpumalanga,-25.434171,30.990031,Kagiso Sithole,Online,true
+293304,Kasi Shisanyama,KwaZulu-Natal,-29.632248,30.328773,Gugu Mthembu,Online,true
+986781,Tshepo's Place,Western Cape,-34.019924,18.712186,Sello Nel,Online,true
+124838,Zone 7 Tuck Shop,Free State,-27.88687,26.644136,Thandi Shabalala,Online,true
+373565,Nandi's Salon,Gauteng,-26.348387,27.82421,Ayanda Shabalala,Online,true
+080151,Taxi Rank Car Wash & Chill,Gauteng,-26.155495,28.087584,Karabo Mahlangu,Online,true
+408711,Hostel Shisanyama,Mpumalanga,-25.829768,29.320693,Kagiso Mthembu,Online,true
+504822,Palesa's Hair Studio,Gauteng,-26.354949,28.240654,Andile Ndlovu,Online,true
+829053,Vusi's Hair Studio,Gauteng,-25.75466,28.235752,Nandi Petersen,Offline,true
+903771,Molefe General Dealer,Gauteng,-26.198226,28.040471,Naledi Zulu,Online,true
+424305,Lerato Spaza,Gauteng,-25.697456,28.194942,Kagiso Nel,NotInstalled,true
+460314,Mahlangu Liquor Store,KwaZulu-Natal,-28.729454,31.988849,Andile Shabalala,Online,true
+642161,Kagiso's Tavern,Western Cape,-33.964181,18.514844,Lindiwe Nel,Online,true
+073109,Dumisani's Lounge,KwaZulu-Natal,-30.018576,30.984299,Sipho Nkosi,Online,true
+493557,Ayanda's Lounge,Western Cape,-33.946899,18.754046,Bongani Mahlangu,Online,true
+347202,Kasi Pub & Grill,Gauteng,-26.272633,28.017206,Nandi Radebe,Online,true
+060667,Lwazi Spaza,KwaZulu-Natal,-29.661041,30.327262,Karabo Mahlangu,Online,true
+447420,Sithole General Dealer,Limpopo,-23.900252,29.585282,Musa Dlamini,Online,true
+688792,Busi Spaza,Limpopo,-23.169038,30.404142,Bongani Petersen,Online,true
+112860,Mthembu General Dealer,Gauteng,-26.270323,27.826602,Nomsa Adams,Online,true
+069989,Ko Nomsa's Spot,KwaZulu-Natal,-28.873871,31.929149,Thandi Shabalala,Online,true
+726000,Maseko General Dealer,Free State,-28.074062,26.838463,Palesa Ndlovu,Online,true
+533109,Village Pub & Grill,North West,-25.863634,25.599194,Siya Cele,Online,true
+278998,Nel Liquor Store,KwaZulu-Natal,-29.968155,30.985063,Tshepo Khumalo,Online,true
+554841,Tumi's Salon,Free State,-29.098768,26.268633,Themba Cele,Online,true
+291006,Village Forecourt,Gauteng,-26.051893,27.960249,Zanele Cele,Online,true
+506654,Taxi Rank Car Wash & Chill,KwaZulu-Natal,-29.716846,30.262564,Lerato Dlamini,Online,true
+688090,Zone 7 Forecourt,Gauteng,-26.200848,28.020384,Lindiwe Mabaso,Offline,true
+352598,Kasi Shisanyama,Gauteng,-26.43153,28.173447,Tshepo Mthembu,Online,true
+542013,Khanyi & Sons Tavern,KwaZulu-Natal,-28.856867,32.100401,Mandla Cele,Online,true
+052756,Park Forecourt,KwaZulu-Natal,-29.878271,30.98286,Andile Ndlovu,Online,true
+737314,Junction Forecourt,Gauteng,-26.205139,27.79241,Kagiso Khumalo,Online,true
+871287,Nomsa's Tavern,KwaZulu-Natal,-29.587047,30.321061,Lwazi Molefe,Online,true
+019960,Mabaso General Dealer,Gauteng,-26.283178,28.10334,Sello Radebe,NotInstalled,false
+015982,Ko Kagiso's Spot,Eastern Cape,-31.660001,28.84458,Dumisani Cele,Online,true
+199207,Petersen Liquor Store,KwaZulu-Natal,-28.759749,31.923574,Precious Nkosi,Online,true
+337576,Thandi & Sons Tavern,Eastern Cape,-31.470379,28.810362,Vusi Sithole,Online,true
+673533,Ko Sipho's Spot,North West,-25.663616,27.234964,Lindiwe Ngcobo,Online,true
+263388,Lwazi's Lounge,Western Cape,-34.008111,18.7549,Thandi Mthembu,Online,true
+596888,Ext 4 Car Wash & Chill,Gauteng,-26.280681,28.106118,Tshepo Ndlovu,Online,true
+373369,Jabu's Tavern,KwaZulu-Natal,-29.983054,31.042881,Thabo Mthembu,Online,true
+338760,Kasi Tuck Shop,Gauteng,-26.412861,28.244732,Vusi Petersen,Online,true
+559861,Lwazi's Lounge,KwaZulu-Natal,-28.753087,32.110201,Busi Radebe,Online,true
+801855,Kasi Pub & Grill,Gauteng,-26.150334,28.078805,Ayanda Ndlovu,Online,true
+032966,Musa & Sons Tavern,North West,-25.943522,25.671976,Musa Mthembu,Online,true
+216673,Musa's Tavern,Gauteng,-26.361237,28.269784,Naledi Zulu,Online,true
+264154,Kasi Car Wash & Chill,North West,-25.745267,27.295104,Khanyi Maseko,Online,true
+217239,Market Car Wash & Chill,Gauteng,-25.691912,28.146443,Siya Radebe,NotInstalled,false
+695844,Zone 7 Forecourt,Gauteng,-26.233648,27.952259,Busi Cele,Online,true
+848374,Gugu's Tavern,Limpopo,-23.037253,30.330353,Zanele Ndlovu,Online,true
+215794,Naledi's Place,Gauteng,-26.250571,28.121058,Mpho Sithole,Online,true
+458848,Jabu's Salon,Gauteng,-25.713099,28.221291,Tumi Cele,Online,true
+086686,Mandla's Lounge,Gauteng,-25.724125,28.220963,Jabu Zulu,NotInstalled,false
+908147,Siya's Tavern,KwaZulu-Natal,-29.872703,30.930353,Thandi Adams,Online,true
+778563,Vusi's Tavern,Gauteng,-25.689013,28.249299,Lerato Mokoena,NotInstalled,true
+436691,Ko Mpho's Spot,Gauteng,-26.201862,28.008687,Andile Cele,Online,true
+170391,Station Tuck Shop,Western Cape,-33.925724,18.64537,Tumi Radebe,Online,true
+502453,Ngcobo Liquor Store,Gauteng,-26.086932,28.122187,Nandi Nel,Online,true
+616712,Lwazi's Place,Gauteng,-26.262785,28.047072,Vusi Nkosi,Online,true
+262459,Ko Siya's Spot,Gauteng,-25.717021,28.136424,Nandi Adams,Online,true
+930294,Station Car Wash & Chill,Eastern Cape,-33.95159,25.619515,Jabu Nkosi,Online,true
+114917,Market Pub & Grill,KwaZulu-Natal,-29.75502,30.917332,Naledi Ngcobo,Online,true
+085132,Tumi's Lounge,Eastern Cape,-33.009159,27.93876,Tumi Ngcobo,Online,true
+470565,Taxi Rank Forecourt,KwaZulu-Natal,-29.643026,30.28759,Gugu Mthembu,Online,true
+463108,Lindiwe's Tavern,KwaZulu-Natal,-29.778302,30.963948,Andile Mahlangu,Online,true
+316137,Radebe General Dealer,KwaZulu-Natal,-30.062608,31.020877,Dumisani Nkosi,Online,true
+137057,Kagiso & Sons Tavern,Eastern Cape,-31.558299,28.767097,Thabo Radebe,Online,true
+098439,Village Shisanyama,Gauteng,-26.085964,28.130959,Musa Ngcobo,Online,true
+261281,Ko Lindiwe's Spot,Mpumalanga,-25.366476,30.988637,Tumi Mokoena,Online,true
+158445,Kasi Shisanyama,Gauteng,-26.208171,28.141338,Dumisani Radebe,Online,true
+835903,Corner Forecourt,North West,-25.751589,25.545986,Thabo Ndlovu,Offline,true
+880224,Ko Mandla's Spot,KwaZulu-Natal,-29.830068,30.956478,Refilwe Mthembu,Offline,true
+456407,Bongani's Lounge,Gauteng,-26.229611,27.956986,Mandla Maseko,Online,true
+949320,Main Road Car Wash & Chill,Mpumalanga,-25.763087,29.274776,Bongani Nkosi,Online,true
+613565,Mthembu Liquor Store,Gauteng,-25.833453,28.194266,Bongani Molefe,Online,true
+554409,Taxi Rank Pub & Grill,KwaZulu-Natal,-29.938992,30.88896,Ayanda Mthembu,Online,true
+102260,Gugu's Tavern,Western Cape,-33.940307,18.596449,Ayanda Maseko,Online,true
+681779,Andile's Tavern,Gauteng,-26.165636,27.917103,Karabo Dlamini,Online,true
+422850,Naledi Spaza,Western Cape,-33.9516,18.583444,Khanyi Mahlangu,Online,true
+753844,Ko Karabo's Spot,KwaZulu-Natal,-28.888568,32.116901,Andile Mahlangu,Online,true
+251576,Ko Andile's Spot,Eastern Cape,-33.884015,25.4967,Nomsa Mthembu,Online,true
+348012,Refilwe Spaza,Gauteng,-26.235977,28.162283,Palesa Dlamini,Online,true
+378714,Vusi & Sons Tavern,Eastern Cape,-31.696955,28.875146,Mpho Molefe,Online,true
+208787,Thabo's Place,KwaZulu-Natal,-29.968488,30.838401,Nandi Maseko,Online,true
+491662,Dumisani & Sons Tavern,Mpumalanga,-25.541272,30.893471,Khanyi Ndlovu,Online,true
+083288,Khanyi's Place,Eastern Cape,-33.037888,27.748226,Jabu Mthembu,Online,true
+031170,Junction Shisanyama,Gauteng,-26.134024,28.030246,Jabu Khumalo,Online,true
+331191,Phase 2 Pub & Grill,Gauteng,-26.319426,28.139811,Tumi Mahlangu,Online,true
+068206,Ko Busi's Spot,North West,-25.772386,27.353087,Vusi Dlamini,Online,true
+591104,Ko Zanele's Spot,Western Cape,-33.941022,18.501929,Kagiso Radebe,Offline,true
+488717,Mabaso General Dealer,North West,-25.867135,25.578674,Thandi Shabalala,Online,true
+081625,Tumi's Hair Studio,KwaZulu-Natal,-29.699109,30.465736,Thabo Shabalala,Online,true
+301858,Andile's Place,KwaZulu-Natal,-29.745451,31.108999,Themba Petersen,Online,true
+895790,Corner Shisanyama,Eastern Cape,-33.084674,27.891426,Vusi Molefe,Offline,true
+027860,Phase 2 Tuck Shop,KwaZulu-Natal,-30.039084,30.920128,Themba Baloyi,Online,true
+546509,Nomsa's Tavern,Gauteng,-25.857457,28.260189,Bongani Mthembu,Online,true
+126000,Tumi & Sons Tavern,KwaZulu-Natal,-29.652091,30.341714,Khanyi Petersen,Online,true
+062837,Station Shisanyama,Gauteng,-26.156287,27.933576,Mpho Maseko,Online,true
+673239,Section B Forecourt,KwaZulu-Natal,-29.938105,30.906088,Kagiso Khumalo,Online,true
+310483,Busi's Place,Eastern Cape,-33.977881,25.512104,Lindiwe Khumalo,Online,true
+562973,Main Road Car Wash & Chill,Gauteng,-25.857248,28.208768,Precious Dlamini,Online,true
+443706,Zone 7 Tuck Shop,Eastern Cape,-33.982239,25.672925,Nandi Maseko,Online,true
+602603,Siya's Place,KwaZulu-Natal,-28.751871,31.926302,Tshepo Petersen,Offline,true
+151264,Mthembu General Dealer,Gauteng,-25.730659,28.267137,Tumi Radebe,Online,true
+386725,Station Forecourt,Gauteng,-25.8562,28.12583,Jabu Sithole,Online,true
+805423,Palesa's Place,Gauteng,-26.252221,28.182243,Gugu Mahlangu,Online,true
+073178,Siya's Tavern,Northern Cape,-28.673059,24.686014,Mpho Ndlovu,NotInstalled,false
+401755,Ngcobo Liquor Store,Gauteng,-25.716447,28.158697,Nandi Khumalo,Online,true
+583276,Kasi Shisanyama,KwaZulu-Natal,-28.883139,32.061711,Lerato Radebe,Online,true
+917395,Mpho & Sons Tavern,Limpopo,-23.010754,30.356446,Precious Mabaso,Online,true
+014777,Station Forecourt,Gauteng,-26.157934,28.125624,Sipho Baloyi,Online,true
+767049,Park Car Wash & Chill,Mpumalanga,-25.388193,30.964726,Karabo Sithole,Online,true
+778201,Mthembu Liquor Store,Limpopo,-23.117641,30.35305,Thabo Zulu,Online,true
+650318,Park Forecourt,Gauteng,-26.366665,28.246576,Lindiwe Mahlangu,Online,true
+965206,Palesa's Hair Studio,Gauteng,-26.181536,28.013581,Themba Dlamini,Offline,true
+510343,Khumalo General Dealer,Gauteng,-26.398503,28.25087,Vusi Dlamini,NotInstalled,true
+225095,Musa & Sons Tavern,Eastern Cape,-32.902539,27.841582,Busi Molefe,Online,true
+075597,Park Car Wash & Chill,KwaZulu-Natal,-28.693857,32.142632,Thandi Nel,Online,true
+615507,Lindiwe & Sons Tavern,Western Cape,-33.937981,18.38062,Andile Mokoena,Online,true
+242387,Thabo's Salon,Limpopo,-23.931563,29.37472,Sello Cele,Online,true
+040110,Mokoena General Dealer,Gauteng,-25.690448,28.146398,Siya Radebe,Online,true
+257013,Phase 2 Forecourt,KwaZulu-Natal,-29.657721,30.41476,Lwazi Mkhize,Online,true
+174005,Karabo's Salon,North West,-25.645805,27.352026,Lindiwe Ngcobo,Online,true
+578910,Zanele's Tavern,Mpumalanga,-25.758062,29.143897,Nomsa Shabalala,Online,true
+920408,Market Car Wash & Chill,KwaZulu-Natal,-29.585937,30.428635,Busi Sithole,Online,true
+273245,Village Pub & Grill,KwaZulu-Natal,-29.824534,30.9901,Mpho Mthembu,Online,true
+330586,Nomsa & Sons Tavern,KwaZulu-Natal,-28.700915,31.918504,Naledi Petersen,Online,true
+075273,Kasi Car Wash & Chill,Gauteng,-26.134982,28.119927,Thabo Radebe,Online,true
+541695,Bongani's Salon,Gauteng,-26.152639,27.98028,Bongani Mokoena,NotInstalled,false
+254486,Zanele's Lounge,Limpopo,-23.058354,30.312212,Ayanda Ndlovu,Online,true
+393530,Naledi's Place,Limpopo,-23.915592,29.449652,Sello Zulu,Online,true
+573018,Zone 7 Tuck Shop,North West,-25.970926,25.645218,Vusi Nel,Online,true
+941517,Junction Shisanyama,Western Cape,-33.910659,18.49186,Lindiwe Mahlangu,Online,true
+248031,Busi Spaza,Gauteng,-26.184882,27.881371,Precious Zulu,Online,true
+188983,Station Car Wash & Chill,KwaZulu-Natal,-29.493333,30.273674,Sello Zulu,NotInstalled,true
+532794,Siya's Salon,Limpopo,-23.950797,29.428291,Sello Dlamini,NotInstalled,true
+809400,Zanele's Tavern,Mpumalanga,-25.442101,30.988073,Mpho Sithole,NotInstalled,false
+684780,Ko Thandi's Spot,Limpopo,-23.812672,29.512406,Lwazi Ngcobo,Online,true
+124020,Musa & Sons Tavern,North West,-25.793478,25.736873,Khanyi Mkhize,Online,true
+630738,Tumi Spaza,Western Cape,-34.009887,18.767498,Thandi Molefe,Online,true
+982876,Tumi's Place,Gauteng,-25.751724,28.290446,Tshepo Nel,NotInstalled,true
+535450,Hostel Car Wash & Chill,Gauteng,-26.132641,28.08927,Naledi Nel,Online,true
+472327,Lerato's Lounge,Gauteng,-26.024784,28.160198,Precious Petersen,Online,true
+374792,Station Pub & Grill,KwaZulu-Natal,-29.91202,30.946149,Lerato Radebe,Online,true
+038050,Nandi & Sons Tavern,KwaZulu-Natal,-28.844171,31.95823,Vusi Mokoena,Online,true
+018823,Sipho's Place,Western Cape,-34.039335,18.587201,Zanele Nel,Online,true
+658694,Busi's Hair Studio,Gauteng,-26.334077,27.977234,Jabu Mkhize,Online,true
+171796,Kasi Tuck Shop,Gauteng,-26.116851,28.163085,Themba Zulu,Online,true
+831303,Section B Forecourt,Gauteng,-25.833921,28.151033,Busi Mabaso,Online,true
+542624,Mandla's Hair Studio,KwaZulu-Natal,-29.640373,30.447283,Precious Cele,NotInstalled,false
+079419,Corner Tuck Shop,Eastern Cape,-31.658447,28.864459,Gugu Mokoena,Online,true
+214454,Nel Liquor Store,Western Cape,-33.981054,18.62642,Nomsa Ngcobo,Online,true
+023010,Ndlovu General Dealer,Eastern Cape,-33.973627,25.626554,Siya Mokoena,Online,true
+967444,Vusi's Lounge,Gauteng,-26.234184,28.234234,Mandla Molefe,Online,true
+815298,Palesa's Place,Eastern Cape,-33.010646,27.805488,Musa Adams,NotInstalled,true
+046294,Baloyi General Dealer,KwaZulu-Natal,-29.948148,30.98903,Mpho Mkhize,Offline,true
+766613,Zone 7 Shisanyama,KwaZulu-Natal,-29.949751,31.03,Palesa Mabaso,Offline,true
+505312,Ko Palesa's Spot,Gauteng,-26.358598,27.789523,Sello Nkosi,Online,true
+846326,Kasi Car Wash & Chill,Gauteng,-26.161815,28.004433,Vusi Mahlangu,Online,true
+791160,Molefe General Dealer,KwaZulu-Natal,-29.92384,31.004805,Lwazi Ndlovu,Online,true
+890325,Ko Lwazi's Spot,Gauteng,-25.659379,28.254577,Jabu Radebe,Online,true
+324798,Ext 4 Shisanyama,Western Cape,-34.013913,18.6305,Sello Mahlangu,Offline,true
+657972,Ko Themba's Spot,Gauteng,-26.316945,27.938587,Andile Ndlovu,Online,true
+357060,Refilwe's Place,Limpopo,-23.12049,30.468375,Karabo Dlamini,Offline,true
+285644,Hostel Shisanyama,KwaZulu-Natal,-29.546947,30.487834,Lerato Petersen,Online,true
+507883,Ko Andile's Spot,Gauteng,-26.307025,27.998798,Karabo Shabalala,Online,true
+497062,Kasi Pub & Grill,KwaZulu-Natal,-29.859916,30.993742,Zanele Radebe,Online,true
+451445,Ko Musa's Spot,Mpumalanga,-25.939809,29.229031,Palesa Adams,Online,true
+081538,Dlamini General Dealer,Gauteng,-26.121017,28.080076,Mandla Mokoena,Online,true
+635701,Ndlovu Liquor Store,Eastern Cape,-31.54108,28.704148,Khanyi Mabaso,Online,true
+832562,Market Pub & Grill,Mpumalanga,-25.92508,29.210524,Dumisani Mahlangu,Offline,true
+245042,Zanele & Sons Tavern,Gauteng,-26.125265,28.152011,Ayanda Mabaso,Online,true
+250571,Karabo's Lounge,Gauteng,-26.300494,27.955849,Lwazi Maseko,Online,true
+480369,Sipho's Tavern,Gauteng,-26.334818,27.974211,Thandi Khumalo,Online,true
+144641,Themba & Sons Tavern,Gauteng,-26.120331,28.037575,Themba Mkhize,Online,true
+286814,Andile's Tavern,Limpopo,-23.790726,29.460309,Dumisani Mokoena,Offline,true
+855948,Main Road Pub & Grill,North West,-25.86661,25.660352,Mpho Nel,Online,true
+598729,Thabo Spaza,KwaZulu-Natal,-29.960812,31.128723,Thabo Mahlangu,Online,true
+595834,Lindiwe's Tavern,Limpopo,-23.808123,29.52144,Nomsa Shabalala,Offline,true
+260125,Themba & Sons Tavern,Eastern Cape,-31.551181,28.868006,Mpho Baloyi,Online,true
+318896,Section B Forecourt,Limpopo,-23.794659,29.558229,Thabo Cele,Online,true
+244995,Ext 4 Pub & Grill,Gauteng,-26.10364,27.965662,Musa Petersen,Online,true
+884988,Taxi Rank Forecourt,Gauteng,-26.211549,28.069177,Precious Petersen,Online,true
+477416,Ko Precious's Spot,Limpopo,-23.16065,30.483771,Tumi Mahlangu,Online,true
+530128,Molefe General Dealer,Eastern Cape,-34.021667,25.653553,Kagiso Radebe,Online,true
+929689,Ndlovu General Dealer,KwaZulu-Natal,-29.90948,30.946414,Thabo Mahlangu,Online,true
+831913,Musa's Salon,North West,-25.695871,27.348477,Karabo Radebe,Offline,true
+095905,Naledi's Hair Studio,Eastern Cape,-32.951988,27.962751,Musa Adams,Online,true
+425379,Junction Tuck Shop,KwaZulu-Natal,-28.831951,32.071725,Palesa Dlamini,Online,true
+275906,Jabu's Salon,Limpopo,-23.086897,30.404712,Thabo Mahlangu,Online,true
+216220,Sithole General Dealer,Western Cape,-33.896785,18.631311,Lerato Molefe,Online,true
+967124,Zulu General Dealer,KwaZulu-Natal,-29.956326,31.051843,Zanele Petersen,Online,true
+694566,Phase 2 Shisanyama,KwaZulu-Natal,-30.063511,31.039149,Themba Cele,Online,true
+340402,Thandi's Tavern,Gauteng,-25.831747,28.182801,Mandla Radebe,Online,true
+433665,Gugu Spaza,KwaZulu-Natal,-29.74934,31.053413,Siya Mkhize,Online,true
+776253,Karabo's Tavern,Mpumalanga,-25.956637,29.343038,Naledi Dlamini,Offline,true
+011963,Zanele's Lounge,KwaZulu-Natal,-28.833142,32.079493,Sello Nel,Offline,true
+539610,Musa's Place,Gauteng,-26.182252,28.117469,Ayanda Mabaso,Online,true
+934518,Section B Shisanyama,Eastern Cape,-33.051386,27.752796,Ayanda Dlamini,Online,true
+100624,Andile's Tavern,Gauteng,-25.797266,28.280416,Tshepo Mabaso,NotInstalled,true
+909285,Sello's Lounge,Gauteng,-26.312164,28.100518,Palesa Mokoena,Offline,true
+818824,Karabo & Sons Tavern,North West,-25.591511,27.140172,Naledi Dlamini,Online,true
+487810,Main Road Pub & Grill,Gauteng,-26.232745,28.129588,Vusi Zulu,Online,true
+156249,Dumisani's Hair Studio,Limpopo,-23.013014,30.393048,Dumisani Mkhize,Online,true
+782965,Thabo Spaza,Gauteng,-26.274663,28.031721,Tumi Sithole,Online,true
+771183,Park Forecourt,Mpumalanga,-25.828698,29.290704,Thandi Baloyi,Online,true
+732268,Karabo's Lounge,Gauteng,-26.302729,27.934462,Lerato Zulu,Online,true
+269206,Hostel Pub & Grill,Free State,-29.109318,26.210865,Bongani Ndlovu,Online,true
+860935,Themba & Sons Tavern,Gauteng,-26.320269,28.07172,Nandi Mahlangu,Online,true
+432396,Taxi Rank Shisanyama,KwaZulu-Natal,-29.890435,30.907616,Nandi Molefe,Online,true
+655673,Adams General Dealer,Gauteng,-26.183667,27.793121,Jabu Molefe,Offline,true
+850227,Sello's Hair Studio,Gauteng,-26.152431,28.143725,Karabo Mokoena,Online,true
+090982,Ext 4 Pub & Grill,Gauteng,-26.162119,27.951551,Nomsa Mokoena,Online,true
+307801,Palesa's Salon,Limpopo,-23.081714,30.387544,Lerato Sithole,Online,true
+852886,Sipho & Sons Tavern,Western Cape,-33.977461,18.755365,Sipho Radebe,Online,true
+810262,Thabo Spaza,Gauteng,-25.867639,28.117433,Sipho Radebe,Online,true
+855134,Tshepo's Hair Studio,Gauteng,-26.239166,28.078257,Karabo Cele,Online,true
+534423,Station Shisanyama,Western Cape,-33.988875,18.656797,Ayanda Ngcobo,Online,true
+996290,Tshepo Spaza,Eastern Cape,-31.50558,28.828293,Ayanda Mthembu,Online,true
+879469,Sipho's Hair Studio,Gauteng,-25.728738,28.223528,Lerato Ndlovu,Online,true
+489324,Market Forecourt,KwaZulu-Natal,-29.511697,30.47898,Zanele Mabaso,Online,true
+203390,Ko Bongani's Spot,Limpopo,-23.937593,29.541378,Lerato Nel,Online,true
+505453,Station Forecourt,Limpopo,-23.835733,29.468774,Ayanda Radebe,Online,true
+059953,Ko Precious's Spot,KwaZulu-Natal,-30.025353,30.93652,Nomsa Dlamini,Online,true
+071800,Thandi & Sons Tavern,Gauteng,-26.280507,28.04363,Busi Ndlovu,Online,true
+639360,Ko Tshepo's Spot,KwaZulu-Natal,-29.521182,30.487774,Bongani Mkhize,Offline,true
+169153,Lwazi's Place,KwaZulu-Natal,-29.989681,30.862579,Musa Mokoena,Online,true
+400950,Park Shisanyama,Limpopo,-23.200591,30.451668,Karabo Radebe,Online,true
+354415,Hostel Pub & Grill,Eastern Cape,-31.506368,28.730928,Musa Mokoena,Online,true
+255719,Lindiwe's Hair Studio,KwaZulu-Natal,-29.953808,30.832517,Thandi Adams,Online,true
+533757,Mahlangu General Dealer,Limpopo,-23.819295,29.519794,Naledi Baloyi,Online,true
+521075,Cele General Dealer,Gauteng,-26.320919,28.245761,Mandla Sithole,Online,true
+414130,Taxi Rank Tuck Shop,Limpopo,-23.78587,29.508297,Tumi Cele,Online,true
+786887,Park Car Wash & Chill,Free State,-28.99356,26.255869,Lerato Ndlovu,Online,true
+035762,Refilwe's Tavern,Gauteng,-26.436495,28.114612,Mpho Petersen,Online,true
+367732,Hill Forecourt,KwaZulu-Natal,-28.722677,31.949734,Kagiso Maseko,Online,true
+384599,Ko Ayanda's Spot,Gauteng,-26.200445,28.122696,Kagiso Sithole,Online,true
+381218,Kasi Shisanyama,Limpopo,-23.143553,30.31274,Khanyi Mthembu,NotInstalled,false
+079266,Radebe Liquor Store,KwaZulu-Natal,-29.576115,30.429555,Mpho Nkosi,Online,true
+324492,Dumisani's Place,Limpopo,-23.149143,30.305919,Tumi Adams,Online,true
+197990,Vusi & Sons Tavern,Western Cape,-34.056033,18.589664,Ayanda Mkhize,Online,true
+723728,Market Tuck Shop,Free State,-27.976842,26.719972,Nandi Khumalo,Online,true
+094506,Mpho's Tavern,Gauteng,-26.161419,27.992677,Gugu Maseko,Online,true
+162225,Lindiwe's Salon,Free State,-28.033593,26.828685,Ayanda Sithole,Online,true
+529094,Hill Forecourt,Western Cape,-34.063902,18.546457,Palesa Nel,Online,true
+072585,Mpho's Hair Studio,Eastern Cape,-32.87801,27.932585,Dumisani Mabaso,Online,true
+844597,Ko Bongani's Spot,Gauteng,-26.291926,27.874478,Nandi Mokoena,Online,true
+591224,Nomsa's Place,KwaZulu-Natal,-29.827827,31.061817,Sello Mkhize,Online,true
+359747,Taxi Rank Pub & Grill,Mpumalanga,-25.452604,31.08126,Gugu Mkhize,Online,true
+071619,Maseko General Dealer,KwaZulu-Natal,-28.75614,32.027029,Tshepo Mabaso,Online,true
+047814,Refilwe Spaza,Eastern Cape,-32.985797,27.949411,Gugu Mabaso,Online,true
+716394,Khanyi Spaza,KwaZulu-Natal,-28.749188,32.08112,Musa Nel,Online,true
+574036,Ayanda's Salon,Western Cape,-33.857915,18.356738,Jabu Ngcobo,Online,true
+016655,Naledi's Lounge,Northern Cape,-28.818583,24.652746,Bongani Mahlangu,Online,true
+919978,Kagiso's Hair Studio,KwaZulu-Natal,-29.992859,30.876815,Precious Nkosi,Online,true
+268576,Musa's Place,KwaZulu-Natal,-28.731997,32.115635,Lerato Shabalala,Online,true
+042514,Market Tuck Shop,Mpumalanga,-25.403069,30.906537,Bongani Maseko,Online,true
+723267,Hostel Tuck Shop,KwaZulu-Natal,-29.818016,31.036838,Andile Zulu,NotInstalled,true
+047402,Mpho's Lounge,Gauteng,-26.096243,27.932629,Palesa Baloyi,Online,true
+563527,Zone 7 Pub & Grill,Mpumalanga,-25.483981,31.015788,Nandi Ndlovu,Online,true
+555223,Hostel Shisanyama,KwaZulu-Natal,-28.770842,32.014448,Lindiwe Molefe,Online,true
+387748,Andile's Place,Western Cape,-34.009399,18.451148,Mpho Mkhize,Online,true
+406163,Karabo & Sons Tavern,Gauteng,-26.155846,27.879358,Lwazi Mthembu,Online,true
+035212,Dumisani's Salon,Gauteng,-26.156768,27.946224,Andile Adams,Online,true
+305240,Busi's Lounge,KwaZulu-Natal,-29.976111,31.055529,Tumi Cele,Online,true
+458355,Tumi's Lounge,Gauteng,-25.805786,28.228925,Ayanda Maseko,Online,true
+183701,Section B Forecourt,KwaZulu-Natal,-30.03193,30.836788,Busi Petersen,Online,true
+346646,Taxi Rank Tuck Shop,KwaZulu-Natal,-29.92195,30.905824,Ayanda Dlamini,Online,true
+053171,Dlamini Liquor Store,Gauteng,-26.268311,28.239059,Themba Ndlovu,Online,true
+166462,Adams Liquor Store,Gauteng,-25.810469,28.277372,Naledi Nkosi,Online,true
+885494,Section B Forecourt,KwaZulu-Natal,-28.832719,32.024673,Thandi Baloyi,Online,true
+423333,Ko Lerato's Spot,Gauteng,-26.227964,28.133145,Sipho Mabaso,NotInstalled,false
+739004,Ext 4 Pub & Grill,Gauteng,-25.829462,28.270883,Dumisani Shabalala,Online,true
+019491,Ayanda's Tavern,Eastern Cape,-33.933722,25.542957,Jabu Mahlangu,Online,true
+460526,Mthembu General Dealer,Gauteng,-25.988555,28.084333,Thandi Nkosi,Online,true
+295676,Nandi & Sons Tavern,Gauteng,-26.213825,27.995272,Tumi Adams,NotInstalled,true
+198344,Corner Tuck Shop,KwaZulu-Natal,-28.826883,32.027911,Tshepo Nkosi,Online,true
+845349,Mahlangu General Dealer,Northern Cape,-28.823102,24.792549,Naledi Shabalala,Online,true
+047056,Nomsa's Tavern,Gauteng,-26.312805,28.14402,Sello Sithole,Online,true
+057449,Lwazi's Lounge,Western Cape,-34.141527,18.707448,Lwazi Shabalala,Online,true
+259486,Hill Pub & Grill,Gauteng,-26.314476,27.848028,Sello Sithole,Online,true
+068272,Village Pub & Grill,Limpopo,-24.0094,29.414475,Musa Mokoena,Online,true
+764068,Themba's Lounge,Gauteng,-26.038044,28.02675,Jabu Mahlangu,Online,true
+076027,Hill Tuck Shop,KwaZulu-Natal,-28.705591,32.156781,Siya Petersen,Online,true
+562297,Siya & Sons Tavern,Gauteng,-26.103999,28.023586,Nomsa Mahlangu,Online,true
+842978,Mokoena Liquor Store,Gauteng,-26.157395,28.076489,Lwazi Khumalo,Online,true
+047099,Mpho's Hair Studio,Gauteng,-26.262873,28.255887,Refilwe Mkhize,Online,true
+225486,Nandi Spaza,Gauteng,-26.11828,27.930365,Busi Radebe,Online,true
+095876,Taxi Rank Forecourt,KwaZulu-Natal,-29.690618,30.389124,Lindiwe Baloyi,Online,true
+049637,Lindiwe's Lounge,KwaZulu-Natal,-29.564305,30.371177,Siya Radebe,Online,true
+595922,Mandla's Lounge,KwaZulu-Natal,-28.797221,32.018743,Thandi Maseko,Online,true
+072768,Ko Vusi's Spot,KwaZulu-Natal,-28.686683,32.02543,Naledi Nkosi,Online,true
+032439,Kasi Car Wash & Chill,Gauteng,-26.241406,28.07501,Lwazi Mkhize,NotInstalled,true
+037743,Lerato's Salon,Gauteng,-26.108542,27.983386,Dumisani Baloyi,Online,true
+567237,Kasi Shisanyama,Eastern Cape,-34.037909,25.494616,Sello Cele,Online,true
+449105,Bongani's Place,Gauteng,-26.134514,28.037854,Khanyi Adams,Online,true
+785630,Park Tuck Shop,North West,-25.57515,27.301953,Thandi Baloyi,Online,true
+393721,Thandi's Tavern,Free State,-28.018754,26.722185,Thandi Nkosi,Online,true
+766624,Station Forecourt,Gauteng,-25.635244,28.133925,Vusi Petersen,Online,true
+915417,Baloyi Liquor Store,Mpumalanga,-25.432949,31.059943,Precious Ngcobo,Offline,true
+232985,Dumisani's Lounge,KwaZulu-Natal,-28.681571,31.990568,Karabo Khumalo,Online,true
+944904,Siya & Sons Tavern,Northern Cape,-28.837922,24.757786,Mpho Zulu,Offline,true
+307496,Shabalala General Dealer,Gauteng,-26.228777,27.921248,Themba Shabalala,Online,true
+879851,Park Shisanyama,Gauteng,-26.213809,28.040468,Sello Nel,Online,true
+196043,Dlamini Liquor Store,Gauteng,-25.724346,28.240144,Sello Petersen,Online,true
+592167,Andile's Place,Gauteng,-26.16435,28.076831,Sipho Shabalala,Online,true
+067201,Zanele's Place,Gauteng,-25.997593,28.064377,Sipho Nkosi,Online,true
+586963,Dlamini General Dealer,Gauteng,-26.390997,28.14033,Sipho Dlamini,Online,true
+438884,Khanyi's Place,KwaZulu-Natal,-29.674225,30.487666,Thabo Dlamini,Online,true
+394984,Mandla's Hair Studio,KwaZulu-Natal,-29.912549,30.961277,Lerato Mthembu,Online,true
+701845,Mokoena General Dealer,Western Cape,-33.884619,18.811381,Tshepo Mabaso,Offline,true
+190207,Sipho & Sons Tavern,Gauteng,-26.057971,28.081346,Lindiwe Cele,Online,true
+037222,Refilwe Spaza,Free State,-29.036188,26.15472,Mandla Nel,Online,true
+388066,Siya's Place,Mpumalanga,-25.460535,31.046611,Musa Dlamini,Offline,true
+417951,Baloyi Liquor Store,KwaZulu-Natal,-29.866378,31.063345,Ayanda Ngcobo,Online,true
+413491,Petersen Liquor Store,KwaZulu-Natal,-29.574653,30.416755,Lwazi Cele,Online,true
+859698,Zone 7 Tuck Shop,Gauteng,-25.674861,28.228742,Gugu Ndlovu,Online,true
+163068,Nomsa's Lounge,KwaZulu-Natal,-29.512779,30.421783,Musa Adams,Online,true
+205003,Adams General Dealer,North West,-25.734932,27.296346,Lerato Ngcobo,Online,true
+049759,Kagiso's Tavern,Western Cape,-34.135737,18.700129,Palesa Mokoena,Online,true
+409152,Mabaso General Dealer,KwaZulu-Natal,-29.945842,30.877598,Lwazi Baloyi,Online,true
+615653,Mahlangu Liquor Store,Western Cape,-33.949068,18.436422,Lindiwe Zulu,Online,true
+019544,Busi's Place,KwaZulu-Natal,-29.59802,30.306978,Nandi Baloyi,Online,true
+942503,Lindiwe's Hair Studio,Limpopo,-23.853695,29.378642,Tumi Radebe,Offline,true
+625973,Maseko General Dealer,KwaZulu-Natal,-29.546477,30.352164,Mandla Mkhize,NotInstalled,true
+924899,Station Forecourt,KwaZulu-Natal,-29.980411,30.913206,Thandi Dlamini,Online,true
+218052,Main Road Pub & Grill,Western Cape,-33.917814,18.374512,Lwazi Nel,NotInstalled,false
+901492,Tumi's Tavern,KwaZulu-Natal,-29.868396,30.960936,Lwazi Mokoena,Online,true
+107623,Section B Forecourt,Gauteng,-26.289482,28.111996,Busi Ngcobo,Online,true
+847294,Lerato Spaza,Eastern Cape,-33.940159,25.561558,Sello Shabalala,Online,true
+969783,Lwazi Spaza,Gauteng,-26.189982,28.134922,Sello Molefe,Online,true
+294124,Mkhize Liquor Store,Northern Cape,-28.810539,24.654405,Thandi Sithole,Online,true
+371746,Ko Mpho's Spot,Gauteng,-26.024195,27.948029,Lwazi Ndlovu,Online,true
+926294,Musa's Hair Studio,KwaZulu-Natal,-29.483033,30.389612,Nomsa Cele,Online,true
+782090,Main Road Tuck Shop,Gauteng,-26.182563,28.121545,Andile Maseko,Online,true
+562651,Corner Shisanyama,Free State,-29.187958,26.243545,Thabo Molefe,Offline,true
+269578,Jabu's Place,Mpumalanga,-25.948661,29.315592,Khanyi Adams,Offline,true
+495757,Park Pub & Grill,Gauteng,-25.991225,27.95713,Busi Mabaso,Online,true
+017469,Zulu Liquor Store,KwaZulu-Natal,-28.887847,32.090041,Tumi Mokoena,Online,true
+087594,Molefe Liquor Store,North West,-25.859434,25.588415,Dumisani Mokoena,Online,true
+529487,Mandla's Hair Studio,North West,-25.699154,27.339184,Mandla Radebe,Online,true
+181038,Hill Tuck Shop,KwaZulu-Natal,-29.487452,30.339405,Mpho Nel,Online,true
+157080,Thandi's Salon,KwaZulu-Natal,-29.532778,30.414999,Nandi Dlamini,Online,true
+900279,Nomsa Spaza,KwaZulu-Natal,-29.904486,30.925137,Sipho Radebe,Online,true
+479001,Ko Zanele's Spot,Eastern Cape,-31.663649,28.718523,Siya Petersen,Online,true
+509407,Refilwe's Hair Studio,Gauteng,-25.657597,28.112865,Kagiso Nel,Online,true
+375677,Mandla's Place,Gauteng,-26.009371,27.942239,Ayanda Petersen,Online,true
+302086,Market Pub & Grill,Gauteng,-25.861042,28.16209,Lwazi Mkhize,Online,true
+703966,Hostel Pub & Grill,KwaZulu-Natal,-28.78628,31.927113,Zanele Nel,Offline,true
+928879,Ko Themba's Spot,KwaZulu-Natal,-28.792209,32.01557,Karabo Nkosi,Offline,true
+303865,Andile's Place,Gauteng,-26.36428,27.918904,Sello Khumalo,Online,true
+467162,Karabo's Lounge,Gauteng,-26.289916,27.983993,Busi Khumalo,Online,true
+584713,Precious's Tavern,Eastern Cape,-32.876949,27.822747,Thandi Ndlovu,Online,true
+683980,Market Car Wash & Chill,Eastern Cape,-33.001056,27.755753,Vusi Adams,Online,true
+337325,Adams Liquor Store,KwaZulu-Natal,-29.883265,30.911806,Themba Mkhize,Online,true
+129788,Tshepo & Sons Tavern,Eastern Cape,-33.890979,25.501376,Kagiso Molefe,Online,true
+599159,Mpho & Sons Tavern,Mpumalanga,-25.525496,31.021309,Precious Baloyi,Online,true
+419157,Nkosi General Dealer,KwaZulu-Natal,-30.048795,31.003859,Lwazi Ndlovu,Online,true
+041455,Village Car Wash & Chill,Gauteng,-26.216458,27.845628,Ayanda Radebe,Online,true
+643533,Karabo Spaza,KwaZulu-Natal,-29.596214,30.367792,Dumisani Shabalala,Online,true
+784361,Kagiso's Tavern,Free State,-28.037338,26.635512,Palesa Khumalo,Online,true
+091561,Nel General Dealer,Gauteng,-26.143583,28.137619,Khanyi Ndlovu,NotInstalled,true
+391729,Thabo Spaza,KwaZulu-Natal,-29.597228,30.416026,Precious Radebe,Online,true
+413511,Thabo Spaza,Western Cape,-34.07908,18.77749,Khanyi Mokoena,NotInstalled,false
+655844,Andile's Lounge,Western Cape,-33.97925,18.516425,Mandla Adams,Offline,true
+335164,Tumi's Hair Studio,Gauteng,-26.259736,28.199433,Sipho Maseko,Online,true
+894062,Station Tuck Shop,Eastern Cape,-34.039599,25.528781,Khanyi Nel,Offline,true
+972223,Ko Busi's Spot,Gauteng,-25.855192,28.165818,Lwazi Cele,Online,true
+533797,Zulu Liquor Store,KwaZulu-Natal,-29.488221,30.370814,Busi Mthembu,Online,true
+639611,Musa Spaza,Limpopo,-23.152449,30.39284,Karabo Mthembu,Online,true
+996508,Precious's Place,Limpopo,-24.010812,29.485647,Sipho Dlamini,Online,true
+077570,Petersen General Dealer,Gauteng,-26.325026,27.750272,Ayanda Mabaso,Online,true
+700665,Ko Kagiso's Spot,Gauteng,-26.225805,28.174478,Nandi Baloyi,Online,true
+094850,Mkhize Liquor Store,Western Cape,-33.897716,18.701611,Jabu Mabaso,Offline,true
+717491,Palesa & Sons Tavern,Gauteng,-26.179433,28.173051,Sipho Ndlovu,Online,true
+075287,Village Tuck Shop,Gauteng,-26.382804,27.943509,Siya Shabalala,Online,true
+370518,Ko Ayanda's Spot,Western Cape,-33.995249,18.313732,Thabo Zulu,Online,true
+887541,Hostel Shisanyama,KwaZulu-Natal,-28.802277,32.131773,Lindiwe Mthembu,Online,true
+283555,Tshepo Spaza,Gauteng,-26.189722,27.968774,Busi Baloyi,Online,true
+241321,Sello's Lounge,Mpumalanga,-25.885575,29.160847,Lwazi Nel,Online,true
+624728,Mkhize Liquor Store,Gauteng,-25.862666,28.335511,Dumisani Shabalala,Online,true
+182658,Nandi's Hair Studio,Limpopo,-23.97184,29.388727,Gugu Shabalala,Online,true
+613609,Park Forecourt,KwaZulu-Natal,-28.822632,32.105803,Khanyi Shabalala,Online,true
+863703,Busi & Sons Tavern,KwaZulu-Natal,-29.878769,31.13439,Musa Ndlovu,NotInstalled,true
+156589,Cele General Dealer,Gauteng,-26.196745,27.805089,Refilwe Adams,Online,true
+564936,Zone 7 Forecourt,Gauteng,-25.834245,28.24861,Themba Mthembu,Online,true
+174957,Market Shisanyama,Gauteng,-26.411365,28.107795,Thandi Molefe,Online,true
+140989,Palesa Spaza,KwaZulu-Natal,-30.086501,31.038997,Tshepo Nel,NotInstalled,false
+495202,Ko Busi's Spot,Eastern Cape,-32.966405,27.873316,Mandla Khumalo,Online,true
+765207,Sello's Salon,Eastern Cape,-32.999222,27.798636,Bongani Mkhize,Online,true
+667156,Hill Pub & Grill,Gauteng,-26.151656,28.157726,Tumi Shabalala,Online,true
+025996,Main Road Forecourt,KwaZulu-Natal,-29.794357,30.969545,Busi Nkosi,Online,true
+636850,Mpho's Hair Studio,Gauteng,-26.192804,27.801779,Busi Dlamini,Online,true
+865474,Tshepo Spaza,Gauteng,-26.214956,27.970819,Bongani Nel,Online,true
+667679,Ayanda's Place,Free State,-27.999086,26.718527,Refilwe Molefe,Online,true
+171739,Thandi's Lounge,KwaZulu-Natal,-29.871326,31.107408,Palesa Nel,Online,true
+596318,Junction Shisanyama,Western Cape,-33.849693,18.359594,Thabo Sithole,Online,true
+852996,Station Shisanyama,Northern Cape,-28.673489,24.773074,Tumi Dlamini,Online,true
+725407,Hill Shisanyama,Mpumalanga,-25.852271,29.266613,Sipho Baloyi,Online,true
+942490,Nomsa's Tavern,KwaZulu-Natal,-28.765676,31.980076,Tshepo Khumalo,Online,true
+933800,Thabo's Hair Studio,North West,-25.706376,27.181059,Sello Khumalo,Online,true
+354503,Bongani's Lounge,KwaZulu-Natal,-28.694415,31.919709,Sello Dlamini,Online,true
+536045,Ko Thandi's Spot,Northern Cape,-28.638186,24.665266,Palesa Mokoena,NotInstalled,false
+129524,Ko Andile's Spot,Gauteng,-26.275001,28.041214,Tshepo Ndlovu,Online,true
+280934,Zone 7 Forecourt,Limpopo,-23.050031,30.266644,Tshepo Ndlovu,Online,true
+558119,Vusi's Place,Western Cape,-34.145342,18.585047,Lerato Molefe,Offline,true
+976745,Market Forecourt,Northern Cape,-28.761082,24.743104,Karabo Baloyi,Online,true
+056759,Kasi Car Wash & Chill,KwaZulu-Natal,-28.894561,32.074616,Palesa Molefe,Online,true
+248033,Thandi Spaza,Gauteng,-26.407513,28.25907,Busi Adams,Online,true
+996838,Market Car Wash & Chill,North West,-25.569117,27.276836,Khanyi Nel,Online,true
+651632,Andile Spaza,Eastern Cape,-33.046076,27.840247,Zanele Mkhize,Online,true
+972493,Station Car Wash & Chill,Mpumalanga,-25.844764,29.194127,Dumisani Nel,Online,true
+144399,Petersen Liquor Store,Limpopo,-22.965471,30.394013,Nomsa Nel,Online,true
+854800,Tumi's Place,Gauteng,-26.310623,28.072221,Zanele Zulu,Online,true
+163493,Main Road Tuck Shop,Mpumalanga,-25.797942,29.251327,Naledi Molefe,Online,true
+643361,Village Car Wash & Chill,Gauteng,-26.273181,28.069171,Naledi Adams,Online,true
+276923,Market Tuck Shop,Mpumalanga,-25.872047,29.345133,Gugu Radebe,Online,true
+740675,Khumalo General Dealer,Gauteng,-26.147947,27.889919,Refilwe Radebe,Online,true
+646557,Ko Refilwe's Spot,Limpopo,-23.981107,29.537764,Refilwe Ndlovu,Online,true
+049473,Station Pub & Grill,Northern Cape,-28.613757,24.72064,Kagiso Shabalala,Online,true
+039098,Corner Forecourt,Eastern Cape,-32.921712,27.767722,Gugu Khumalo,Offline,true
+966843,Hill Tuck Shop,Gauteng,-25.719839,28.117398,Nomsa Sithole,Online,true
+175325,Mabaso Liquor Store,Western Cape,-33.919092,18.778593,Dumisani Ndlovu,Online,true
+436325,Dumisani's Salon,KwaZulu-Natal,-29.503757,30.445693,Naledi Dlamini,Online,true
+239268,Mkhize Liquor Store,Western Cape,-33.907712,18.745414,Ayanda Petersen,Online,true
+036831,Mokoena Liquor Store,KwaZulu-Natal,-29.59874,30.419551,Tshepo Ngcobo,Offline,true
+020612,Palesa's Place,Western Cape,-34.047307,18.596021,Sello Ngcobo,Offline,true
+294318,Sipho's Lounge,KwaZulu-Natal,-28.888425,31.941262,Siya Khumalo,Online,true
+315403,Nel Liquor Store,KwaZulu-Natal,-28.807875,32.020248,Khanyi Mkhize,Offline,true
+749461,Main Road Forecourt,Western Cape,-33.91426,18.728714,Tumi Mabaso,Online,true
+488584,Hostel Shisanyama,Limpopo,-23.092552,30.270486,Nandi Baloyi,Online,true
+817922,Sipho's Tavern,North West,-25.966338,25.648253,Thabo Maseko,Offline,true
+314383,Palesa Spaza,KwaZulu-Natal,-29.753344,30.929982,Tumi Baloyi,Online,true
+285761,Hostel Tuck Shop,Gauteng,-26.145028,28.125068,Mpho Mkhize,Online,true
+534449,Ko Musa's Spot,Western Cape,-33.986927,18.705349,Nandi Mabaso,Online,true
+075117,Zanele's Salon,Gauteng,-26.110987,28.03998,Nandi Nel,Online,true
+850973,Nomsa's Place,Free State,-27.9841,26.693267,Naledi Petersen,Online,true
+196883,Ko Kagiso's Spot,Gauteng,-25.769541,28.277311,Siya Dlamini,Online,true
+372681,Tshepo's Salon,North West,-25.906282,25.664296,Palesa Mabaso,Online,true
+587316,Corner Pub & Grill,Gauteng,-26.312869,28.156113,Jabu Maseko,Offline,true
+332554,Refilwe's Hair Studio,Gauteng,-26.086697,27.983427,Palesa Radebe,Offline,true
+044808,Sello's Salon,Gauteng,-26.369945,27.848246,Khanyi Radebe,Offline,true
+880738,Ayanda & Sons Tavern,Mpumalanga,-25.753894,29.193458,Busi Adams,Online,true
+234369,Khanyi's Hair Studio,Gauteng,-26.094985,28.029966,Refilwe Shabalala,Online,true
+064737,Park Shisanyama,Gauteng,-26.332923,28.175983,Andile Adams,Online,true
+736849,Phase 2 Car Wash & Chill,Gauteng,-26.152345,28.087914,Gugu Khumalo,Online,true
+885061,Mpho & Sons Tavern,KwaZulu-Natal,-30.039656,30.964534,Zanele Dlamini,Online,true
+771938,Ko Sello's Spot,KwaZulu-Natal,-29.923354,30.931192,Lerato Dlamini,Offline,true
+675287,Market Forecourt,Gauteng,-26.38058,28.200919,Mandla Dlamini,NotInstalled,false
+309974,Ext 4 Car Wash & Chill,KwaZulu-Natal,-29.864274,31.037548,Bongani Baloyi,Online,true
+045950,Station Tuck Shop,Gauteng,-25.688011,28.182056,Refilwe Ndlovu,Online,true
+698457,Musa Spaza,KwaZulu-Natal,-29.869446,30.887499,Precious Mkhize,Online,true
+147151,Baloyi General Dealer,Gauteng,-25.796448,28.181339,Khanyi Khumalo,Online,true
+202803,Taxi Rank Shisanyama,KwaZulu-Natal,-28.745654,31.920247,Ayanda Mthembu,Online,true
+753816,Kasi Shisanyama,Mpumalanga,-25.780571,29.23401,Busi Mthembu,Online,true
+409478,Ayanda's Place,Limpopo,-23.92389,29.422581,Nomsa Molefe,Offline,true
+186164,Dlamini Liquor Store,North West,-25.597971,27.141128,Kagiso Petersen,Online,true
+377878,Market Tuck Shop,Eastern Cape,-33.085183,27.818755,Kagiso Mokoena,Offline,true
+827200,Hill Tuck Shop,Mpumalanga,-25.550196,30.997998,Kagiso Mokoena,NotInstalled,true
+920189,Precious Spaza,Gauteng,-26.294179,27.76883,Musa Sithole,Online,true
+253115,Siya's Salon,Gauteng,-26.21929,28.195333,Refilwe Baloyi,Online,true
+082235,Section B Forecourt,Free State,-29.198354,26.099243,Bongani Mkhize,Online,true
+375489,Bongani's Lounge,KwaZulu-Natal,-30.064478,30.8473,Precious Petersen,Online,true
+210217,Palesa Spaza,Mpumalanga,-25.958632,29.26524,Thandi Radebe,Online,true
+575770,Kasi Shisanyama,Gauteng,-25.849705,28.298969,Mpho Adams,Online,true
+100704,Nel General Dealer,North West,-25.886881,25.748263,Khanyi Mahlangu,Online,true
+537413,Phase 2 Car Wash & Chill,Gauteng,-26.315524,28.065848,Sello Mthembu,Online,true
+540882,Park Forecourt,Gauteng,-26.096745,28.072837,Jabu Mthembu,Online,true
+707643,Precious's Lounge,KwaZulu-Natal,-29.78897,31.02599,Refilwe Sithole,Offline,true
+487106,Taxi Rank Shisanyama,Eastern Cape,-34.005387,25.523458,Zanele Adams,Online,true
+520805,Hostel Forecourt,Gauteng,-25.989239,28.047695,Lerato Zulu,Offline,true
+550650,Sello's Salon,Gauteng,-25.763657,28.244585,Bongani Ngcobo,Online,true
+979849,Phase 2 Forecourt,Gauteng,-26.21849,27.842093,Tshepo Nel,Online,true
+728005,Ko Mandla's Spot,Western Cape,-33.870285,18.404645,Vusi Ngcobo,Online,true
+197179,Sello's Place,Gauteng,-26.253737,27.991653,Vusi Mabaso,Online,true
+778586,Ko Tumi's Spot,Gauteng,-26.358771,27.843227,Andile Nel,Online,true
+998293,Musa's Tavern,KwaZulu-Natal,-28.72194,31.993089,Khanyi Adams,NotInstalled,false
+895243,Village Tuck Shop,Eastern Cape,-31.610331,28.666091,Thabo Sithole,Online,true
+310939,Village Pub & Grill,KwaZulu-Natal,-29.825913,31.103531,Zanele Khumalo,Online,true
+260283,Andile Spaza,Eastern Cape,-34.047724,25.508215,Naledi Adams,Online,true
+087022,Tshepo's Hair Studio,KwaZulu-Natal,-28.839768,31.96426,Refilwe Cele,Online,true
+540299,Karabo's Lounge,Gauteng,-26.281153,28.225362,Lindiwe Nkosi,Offline,true
+898902,Shabalala Liquor Store,KwaZulu-Natal,-29.520086,30.305684,Jabu Cele,Online,true
+221881,Lwazi's Salon,Gauteng,-26.212951,27.988269,Andile Cele,Online,true
+398230,Thabo's Salon,Gauteng,-26.37775,27.889023,Ayanda Shabalala,Online,true
+186617,Sello Spaza,Gauteng,-26.105151,28.051061,Lindiwe Dlamini,Online,true
+386481,Zone 7 Car Wash & Chill,Gauteng,-26.224976,27.96723,Mandla Mabaso,Online,true
+536408,Taxi Rank Forecourt,Gauteng,-26.310792,27.947867,Gugu Sithole,Online,true
+284979,Park Tuck Shop,KwaZulu-Natal,-28.74041,31.962009,Thabo Mkhize,Online,true
+020542,Village Pub & Grill,KwaZulu-Natal,-28.683281,32.13072,Zanele Radebe,Online,true
+280965,Park Forecourt,Eastern Cape,-31.554538,28.682348,Sipho Adams,Online,true
+713530,Adams Liquor Store,Mpumalanga,-25.524792,30.989994,Naledi Petersen,Online,true
+807678,Ngcobo General Dealer,Mpumalanga,-25.941434,29.189204,Zanele Mahlangu,Online,true
+923688,Park Shisanyama,KwaZulu-Natal,-28.767646,32.030354,Nandi Baloyi,Online,true
+825590,Village Shisanyama,Gauteng,-26.314448,27.927978,Bongani Sithole,Online,true
+823884,Junction Shisanyama,KwaZulu-Natal,-29.704861,30.329498,Precious Radebe,Online,true
+709884,Ko Lindiwe's Spot,Gauteng,-26.222385,28.08211,Andile Ngcobo,Online,true
+762787,Refilwe & Sons Tavern,KwaZulu-Natal,-28.7527,32.017076,Refilwe Ndlovu,Online,true
+829797,Karabo Spaza,Limpopo,-22.96682,30.401027,Zanele Ndlovu,Online,true
+760235,Zone 7 Pub & Grill,Gauteng,-26.414347,28.198953,Tumi Nel,Online,true
+086494,Junction Forecourt,KwaZulu-Natal,-29.739258,30.938759,Karabo Mthembu,Online,true
+410309,Ko Mpho's Spot,Northern Cape,-28.77822,24.737629,Musa Cele,Online,true
+691917,Siya's Tavern,Gauteng,-26.136801,28.115867,Lerato Nkosi,Online,true
+502463,Maseko General Dealer,Limpopo,-23.150715,30.3031,Mpho Dlamini,Offline,true
+030575,Thandi Spaza,KwaZulu-Natal,-29.583353,30.45657,Gugu Petersen,Online,true
+839253,Musa Spaza,Limpopo,-23.172121,30.379232,Bongani Mabaso,Offline,true
+295376,Lindiwe's Lounge,Gauteng,-25.988627,28.164137,Musa Mkhize,Online,true
+692009,Phase 2 Car Wash & Chill,Northern Cape,-28.638868,24.697409,Lerato Petersen,Online,true
+889173,Gugu's Salon,Western Cape,-33.997339,18.641948,Palesa Mthembu,Online,true
+633020,Jabu's Place,KwaZulu-Natal,-28.817032,32.115206,Kagiso Ngcobo,Online,true
+219289,Lerato's Lounge,KwaZulu-Natal,-29.905516,31.004111,Musa Mkhize,Online,true
+980903,Park Shisanyama,Gauteng,-26.416477,28.049913,Andile Nel,Online,true
+535308,Cele General Dealer,Western Cape,-33.964419,18.666853,Sipho Ngcobo,Online,true
+273454,Kagiso Spaza,Gauteng,-26.093416,28.152136,Tshepo Molefe,Online,true
+465626,Nomsa's Place,Mpumalanga,-25.555142,31.003154,Refilwe Zulu,Online,true
+058107,Maseko Liquor Store,Gauteng,-26.14798,27.764962,Kagiso Nkosi,Online,true
+097790,Mabaso Liquor Store,North West,-25.830334,25.598383,Jabu Ndlovu,Online,true
+676065,Dumisani & Sons Tavern,North West,-25.594641,27.275188,Lerato Adams,Online,true
+292340,Park Pub & Grill,Mpumalanga,-25.410726,30.900806,Lwazi Mahlangu,NotInstalled,true
+888935,Naledi's Tavern,Gauteng,-26.224406,28.259022,Sipho Zulu,Online,true
+935928,Park Shisanyama,Eastern Cape,-31.675474,28.73932,Jabu Nel,Online,true
+456720,Dumisani's Salon,Eastern Cape,-32.950629,27.941388,Mandla Mabaso,Online,true
+734142,Bongani's Tavern,Eastern Cape,-34.024739,25.50391,Vusi Mabaso,Online,true
+040627,Ko Zanele's Spot,Mpumalanga,-25.400499,31.094204,Zanele Sithole,Online,true
+268676,Tshepo's Lounge,Gauteng,-25.786962,28.158926,Jabu Sithole,Online,true
+475612,Khanyi's Lounge,Mpumalanga,-25.891229,29.277573,Sello Dlamini,Offline,true
+622247,Main Road Shisanyama,Gauteng,-26.320593,28.133393,Mpho Radebe,Online,true
+716556,Lwazi & Sons Tavern,Western Cape,-33.924321,18.581528,Kagiso Mabaso,Online,true
+317386,Mabaso General Dealer,Gauteng,-26.036301,27.948511,Andile Shabalala,Online,true
+170895,Ko Nomsa's Spot,KwaZulu-Natal,-29.954529,30.850777,Sello Molefe,Online,true
+521795,Station Forecourt,KwaZulu-Natal,-29.740939,30.917971,Karabo Cele,Online,true
+203747,Busi Spaza,Eastern Cape,-33.005093,27.918175,Karabo Nel,Online,true
+542565,Station Pub & Grill,Limpopo,-23.043811,30.359906,Vusi Mabaso,Online,true
+117864,Ayanda's Salon,Gauteng,-25.852862,28.304615,Sello Nel,Online,true
+310588,Nel General Dealer,Gauteng,-26.095246,27.992962,Thandi Maseko,Online,true
+683230,Nomsa's Tavern,Gauteng,-25.687893,28.237976,Refilwe Mahlangu,Online,true
+750058,Jabu's Hair Studio,KwaZulu-Natal,-30.048047,30.942099,Thabo Petersen,Online,true
+948253,Section B Shisanyama,KwaZulu-Natal,-30.051768,30.973431,Andile Mkhize,Online,true
+970020,Andile's Place,Gauteng,-26.243093,28.080915,Karabo Cele,Online,true
+061368,Main Road Forecourt,Gauteng,-26.227966,28.235797,Precious Zulu,Online,true
+283465,Kasi Pub & Grill,Gauteng,-26.067183,28.113403,Mpho Maseko,Online,true
+721588,Adams Liquor Store,KwaZulu-Natal,-28.678806,32.1209,Andile Sithole,Offline,true
+469937,Zanele's Place,KwaZulu-Natal,-28.679059,32.083956,Mandla Sithole,Offline,true
+859183,Sello & Sons Tavern,Western Cape,-34.086487,18.630455,Palesa Maseko,Online,true
+538070,Lindiwe Spaza,Eastern Cape,-32.882787,27.893454,Sello Cele,Offline,true
+259962,Nel Liquor Store,KwaZulu-Natal,-30.043722,30.856545,Tumi Dlamini,Online,true
+409123,Nomsa's Lounge,Gauteng,-26.351977,27.823097,Gugu Nel,Online,true
+031119,Mandla & Sons Tavern,Gauteng,-26.219909,28.106824,Sipho Adams,Online,true
+789437,Kasi Shisanyama,Northern Cape,-28.689107,24.71743,Sipho Ngcobo,Online,true
+565092,Bongani & Sons Tavern,Gauteng,-26.123653,28.098004,Lindiwe Shabalala,NotInstalled,false
+109824,Nandi's Tavern,Gauteng,-26.108084,28.060664,Nomsa Ndlovu,Online,true
+046496,Ext 4 Forecourt,Gauteng,-26.228252,28.027234,Ayanda Mthembu,Online,true
+597468,Village Tuck Shop,Free State,-27.957008,26.799731,Mandla Nkosi,Online,true
+873231,Vusi & Sons Tavern,Gauteng,-26.280151,27.84172,Andile Mokoena,Online,true
+061771,Baloyi General Dealer,Gauteng,-26.095455,28.088663,Ayanda Mahlangu,Online,true
+623264,Lindiwe's Place,Eastern Cape,-31.550817,28.900735,Mandla Mahlangu,Online,true
+078768,Bongani's Hair Studio,Gauteng,-26.16765,28.142018,Naledi Adams,Online,true
+570561,Sipho's Place,North West,-25.548989,27.260802,Siya Nkosi,Online,true
+835089,Mpho's Tavern,Gauteng,-26.24647,27.790556,Busi Ndlovu,Online,true
+496316,Palesa Spaza,KwaZulu-Natal,-29.784482,31.117556,Andile Shabalala,Online,true
+668958,Thandi's Tavern,Gauteng,-26.309799,27.871433,Refilwe Mthembu,Online,true
+357465,Ko Siya's Spot,Western Cape,-33.951596,18.600672,Andile Mahlangu,Online,true
+133808,Ko Thandi's Spot,Gauteng,-26.443731,28.071462,Ayanda Mabaso,Online,true
+296659,Ayanda's Place,KwaZulu-Natal,-29.581023,30.324611,Tumi Khumalo,Online,true
+356985,Cele Liquor Store,Western Cape,-34.087939,18.596069,Lwazi Mabaso,Online,true
+085318,Palesa Spaza,North West,-25.88245,25.759101,Precious Khumalo,Online,true
+354746,Zone 7 Forecourt,Gauteng,-26.259247,28.04405,Kagiso Ndlovu,Online,true
+024312,Naledi & Sons Tavern,Gauteng,-26.315337,27.860555,Thandi Khumalo,Online,true
+370744,Lwazi's Lounge,KwaZulu-Natal,-28.86156,32.086168,Zanele Cele,Online,true
+527318,Gugu's Salon,Gauteng,-25.635022,28.120524,Gugu Cele,Online,true
+051597,Andile & Sons Tavern,Eastern Cape,-31.474552,28.84227,Thandi Mabaso,Online,true
+764602,Palesa's Hair Studio,Western Cape,-34.037313,18.519087,Lindiwe Nkosi,Online,true
+555356,Lindiwe's Lounge,Free State,-27.865361,26.758287,Lwazi Nkosi,Online,true
+574599,Corner Tuck Shop,Gauteng,-26.138333,28.045985,Naledi Mkhize,NotInstalled,true
+429566,Ko Ayanda's Spot,Eastern Cape,-31.694354,28.854846,Andile Baloyi,Online,true
+503256,Refilwe's Salon,North West,-25.768215,27.181161,Lindiwe Mahlangu,Online,true
+568617,Phase 2 Car Wash & Chill,Gauteng,-26.340847,27.797006,Nandi Mokoena,Online,true
+671458,Busi's Lounge,Gauteng,-26.135592,27.952754,Sipho Nel,Offline,true
+742423,Naledi's Place,KwaZulu-Natal,-28.861574,32.038579,Themba Zulu,Online,true
+437405,Lwazi's Tavern,KwaZulu-Natal,-29.91128,31.032927,Lwazi Molefe,Online,true
+156653,Ko Zanele's Spot,Gauteng,-25.663116,28.123681,Sello Ngcobo,Online,true
+818994,Ko Ayanda's Spot,Mpumalanga,-25.511952,31.05643,Zanele Mabaso,Online,true
+696874,Kasi Shisanyama,Western Cape,-34.044135,18.520357,Jabu Mokoena,Online,true
+099243,Palesa Spaza,Limpopo,-23.004575,30.391565,Palesa Mahlangu,NotInstalled,true
+015467,Junction Shisanyama,Western Cape,-34.011667,18.818554,Bongani Maseko,Online,true
+318238,Hostel Tuck Shop,Free State,-28.013022,26.755654,Thandi Mokoena,Online,true
+766664,Adams General Dealer,North West,-25.647172,27.247913,Andile Radebe,Online,true
+537429,Shabalala Liquor Store,Gauteng,-26.219508,27.965385,Lindiwe Mthembu,Online,true
+444882,Siya's Tavern,Gauteng,-26.349907,27.738572,Vusi Mthembu,Online,true
+498882,Ext 4 Shisanyama,Gauteng,-26.226994,28.265983,Jabu Mthembu,Online,true
+099306,Junction Shisanyama,Gauteng,-26.208293,28.125255,Ayanda Shabalala,Online,true
+286480,Khumalo General Dealer,Gauteng,-26.245079,27.977901,Precious Dlamini,Online,true
+777723,Mandla's Place,Eastern Cape,-31.703381,28.795673,Tumi Maseko,Online,true
+929101,Siya's Tavern,Western Cape,-34.066247,18.640249,Refilwe Mthembu,Offline,true
+709419,Kagiso & Sons Tavern,KwaZulu-Natal,-28.683514,31.957999,Tumi Maseko,Online,true
+074142,Ayanda's Place,Gauteng,-26.294894,28.100535,Precious Radebe,NotInstalled,false
+553407,Gugu's Tavern,KwaZulu-Natal,-29.64247,30.471627,Kagiso Mthembu,Online,true
+265313,Park Tuck Shop,Gauteng,-26.116316,28.057408,Zanele Mkhize,Online,true
+121310,Nomsa's Tavern,Mpumalanga,-25.822457,29.196575,Gugu Shabalala,Online,true
+827907,Ko Thabo's Spot,North West,-25.918386,25.718605,Tumi Nkosi,Online,true
+321071,Kagiso's Place,Eastern Cape,-31.675336,28.729907,Sello Mabaso,Online,true
+303927,Zulu General Dealer,Northern Cape,-28.608523,24.671709,Naledi Mahlangu,Offline,true
+560522,Ko Vusi's Spot,Limpopo,-23.201284,30.406196,Tshepo Sithole,Online,true
+281591,Jabu & Sons Tavern,Limpopo,-23.988851,29.413359,Musa Petersen,Online,true
+600218,Ngcobo General Dealer,Mpumalanga,-25.78393,29.272016,Kagiso Cele,Online,true
+060608,Kasi Shisanyama,KwaZulu-Natal,-28.796767,32.087307,Precious Mabaso,Online,true
+388920,Mpho Spaza,Gauteng,-26.319139,27.896059,Busi Mthembu,Online,true
+828331,Nandi's Lounge,KwaZulu-Natal,-28.816206,32.110894,Thabo Adams,Offline,true
+584918,Hostel Car Wash & Chill,Western Cape,-33.999735,18.503867,Zanele Mabaso,Online,true
+376678,Ext 4 Forecourt,Free State,-27.972125,26.730751,Lerato Cele,Offline,true
+541084,Nkosi Liquor Store,Gauteng,-26.005941,28.081701,Lindiwe Nkosi,Online,true
+623609,Hill Forecourt,Gauteng,-26.3633,28.070802,Andile Mkhize,Online,true
+405930,Junction Car Wash & Chill,North West,-25.74989,25.740834,Andile Mahlangu,Online,true
+522389,Hill Car Wash & Chill,Mpumalanga,-25.58001,30.954629,Zanele Mthembu,Online,true
+027122,Mpho & Sons Tavern,Mpumalanga,-25.399844,31.101558,Ayanda Mthembu,Online,true
+036247,Kasi Tuck Shop,Free State,-28.982516,26.249756,Bongani Mabaso,Online,true
+918491,Zanele's Hair Studio,KwaZulu-Natal,-28.803704,32.057244,Khanyi Mkhize,Online,true
+522181,Village Shisanyama,Western Cape,-33.944724,18.62879,Themba Ngcobo,Online,true
+707841,Ko Sipho's Spot,KwaZulu-Natal,-30.072916,30.969086,Lwazi Ndlovu,Online,true
+527280,Main Road Tuck Shop,Eastern Cape,-33.058174,27.867093,Tshepo Maseko,Online,true
+338373,Themba's Salon,Western Cape,-34.031773,18.463326,Lindiwe Ngcobo,Online,true
+602779,Section B Pub & Grill,Gauteng,-26.138396,27.941104,Nandi Mthembu,Online,true
+834818,Nomsa's Place,Gauteng,-26.248205,28.260886,Lindiwe Petersen,Online,true
+020015,Vusi's Lounge,Free State,-29.115615,26.273068,Bongani Khumalo,Online,true
+050043,Zulu Liquor Store,Free State,-29.117633,26.081058,Refilwe Shabalala,Online,true
+081259,Phase 2 Pub & Grill,Western Cape,-33.836345,18.346436,Busi Adams,Online,true
+347736,Khumalo General Dealer,Gauteng,-26.275596,28.104212,Nomsa Molefe,Online,true
+234547,Corner Pub & Grill,KwaZulu-Natal,-28.71236,32.101021,Naledi Mabaso,Online,true
+240023,Lwazi & Sons Tavern,Eastern Cape,-31.490604,28.855787,Mandla Baloyi,Online,true
+879918,Ngcobo General Dealer,North West,-25.899492,25.604729,Khanyi Mthembu,Online,true
+823930,Market Pub & Grill,Eastern Cape,-31.559254,28.785147,Tumi Mahlangu,Online,true
+047780,Precious & Sons Tavern,KwaZulu-Natal,-29.924162,30.829536,Siya Sithole,Online,true
+572951,Main Road Forecourt,KwaZulu-Natal,-29.882777,30.843126,Kagiso Maseko,Online,true
+717287,Hostel Car Wash & Chill,Gauteng,-25.666326,28.109757,Tumi Mabaso,Online,true
+552631,Taxi Rank Tuck Shop,KwaZulu-Natal,-29.580209,30.464117,Tshepo Mabaso,Online,true
+964057,Ko Busi's Spot,KwaZulu-Natal,-28.821541,32.131686,Khanyi Mahlangu,Online,true
+489281,Ndlovu Liquor Store,KwaZulu-Natal,-28.862368,32.142202,Dumisani Ndlovu,Online,true
+750278,Petersen Liquor Store,Gauteng,-26.186448,28.089383,Sipho Nkosi,Online,true
+442911,Nandi's Place,KwaZulu-Natal,-28.686391,32.042308,Nandi Zulu,Offline,true
+796969,Ext 4 Shisanyama,Gauteng,-26.325277,27.798041,Lerato Zulu,Online,true
+073765,Lindiwe & Sons Tavern,Limpopo,-23.785669,29.548516,Themba Maseko,Online,true
+517042,Dumisani's Hair Studio,Limpopo,-23.974165,29.562972,Mpho Nkosi,Online,true
+663600,Gugu Spaza,Gauteng,-26.276885,28.164719,Dumisani Radebe,Online,true
+298655,Ko Themba's Spot,KwaZulu-Natal,-28.730323,31.938976,Andile Mahlangu,Online,true
+243909,Thandi Spaza,Western Cape,-34.040859,18.567505,Mandla Adams,Online,true
+206044,Kagiso's Hair Studio,KwaZulu-Natal,-29.74982,31.131749,Thabo Shabalala,Online,true
+838468,Kagiso's Lounge,Gauteng,-25.678439,28.221658,Ayanda Ndlovu,Online,true
+824803,Corner Car Wash & Chill,Limpopo,-23.89679,29.501085,Thandi Radebe,Online,true
+374458,Thandi's Tavern,North West,-25.916339,25.55595,Palesa Mkhize,Online,true
+566972,Themba's Lounge,Gauteng,-26.36499,27.866682,Gugu Nkosi,Online,true
+659712,Kasi Car Wash & Chill,Eastern Cape,-34.066233,25.543672,Kagiso Dlamini,Online,true
+043812,Lwazi's Hair Studio,KwaZulu-Natal,-29.913417,30.85164,Andile Ngcobo,Online,true
+864232,Zanele's Lounge,Mpumalanga,-25.53285,31.049727,Lwazi Mabaso,Online,true
+923370,Section B Shisanyama,Eastern Cape,-33.99491,25.574293,Dumisani Mkhize,Online,true
+497888,Zanele & Sons Tavern,North West,-25.886635,25.552264,Lindiwe Zulu,Online,true
+458976,Jabu's Salon,KwaZulu-Natal,-28.793098,32.016154,Musa Ngcobo,Online,true
+750973,Corner Forecourt,Limpopo,-23.966624,29.436038,Nomsa Baloyi,Online,true
+072343,Kasi Shisanyama,Gauteng,-26.144432,28.078285,Mandla Petersen,Online,true
+812209,Dumisani's Salon,Gauteng,-26.100878,28.036111,Zanele Ndlovu,Online,true
+230301,Ko Karabo's Spot,Gauteng,-25.858803,28.226949,Themba Mahlangu,Online,true
+221328,Zone 7 Tuck Shop,Gauteng,-26.21261,28.101185,Thabo Adams,Online,true
+197218,Siya's Hair Studio,North West,-25.605873,27.233017,Jabu Nel,Online,true
+537655,Thandi's Lounge,Gauteng,-25.794871,28.181497,Tshepo Maseko,NotInstalled,true
+970149,Main Road Forecourt,Gauteng,-26.237821,27.942019,Thabo Mkhize,Offline,true
+360683,Ko Gugu's Spot,Gauteng,-25.85795,28.276754,Thandi Mahlangu,Online,true
+642148,Sello & Sons Tavern,Gauteng,-26.025463,28.150297,Siya Mkhize,Online,true
+428751,Khanyi's Hair Studio,KwaZulu-Natal,-30.065559,31.011421,Refilwe Radebe,Online,true
+756742,Palesa & Sons Tavern,KwaZulu-Natal,-29.758265,31.063051,Musa Dlamini,Online,true
+755772,Busi's Salon,Gauteng,-26.362714,28.065684,Bongani Cele,Online,true
+041003,Corner Pub & Grill,Mpumalanga,-25.922985,29.354801,Musa Molefe,Offline,true
+070637,Corner Forecourt,Gauteng,-26.376287,28.248739,Sello Mokoena,Online,true
+792997,Lwazi's Salon,Gauteng,-25.818083,28.313174,Tshepo Mthembu,Online,true
+529543,Kagiso's Salon,KwaZulu-Natal,-29.813539,30.930481,Nandi Nkosi,Online,true
+735076,Zanele's Lounge,Northern Cape,-28.662143,24.766322,Tumi Ndlovu,Online,true
+096209,Ko Palesa's Spot,KwaZulu-Natal,-29.592066,30.281797,Musa Molefe,Online,true
+097053,Lerato Spaza,Limpopo,-23.051013,30.501623,Sello Dlamini,Online,true
+422760,Jabu's Lounge,KwaZulu-Natal,-29.525767,30.375044,Dumisani Shabalala,Online,true
+068660,Andile's Place,Gauteng,-26.277113,28.254021,Lerato Mokoena,Online,true
+238910,Ko Nandi's Spot,KwaZulu-Natal,-29.664829,30.47485,Mandla Zulu,Online,true
+325751,Junction Tuck Shop,Western Cape,-33.941409,18.695388,Zanele Mkhize,Online,true
+337995,Siya's Salon,Gauteng,-26.216358,27.822005,Mandla Shabalala,Online,true
+920981,Station Pub & Grill,KwaZulu-Natal,-29.720489,30.408864,Tumi Sithole,Online,true
+560590,Tumi's Hair Studio,Gauteng,-26.203206,28.094368,Lindiwe Nel,Online,true
+031820,Dumisani's Hair Studio,Eastern Cape,-34.029541,25.632442,Thandi Ndlovu,Online,true
+021289,Baloyi Liquor Store,Gauteng,-26.441437,28.053446,Lerato Baloyi,NotInstalled,true
+459103,Park Shisanyama,Eastern Cape,-33.096076,27.954894,Karabo Radebe,Online,true
+504853,Kagiso's Place,Gauteng,-26.037337,28.079835,Palesa Adams,Online,true
+230922,Hostel Car Wash & Chill,Gauteng,-26.339148,28.097465,Precious Ndlovu,Online,true
+717929,Phase 2 Forecourt,Mpumalanga,-25.916293,29.168569,Tshepo Molefe,Online,true
+096029,Nkosi Liquor Store,KwaZulu-Natal,-29.844894,31.000435,Thabo Dlamini,Online,true
+776797,Khanyi Spaza,KwaZulu-Natal,-28.749056,31.966507,Mpho Ndlovu,Online,true
+050547,Khumalo Liquor Store,Free State,-27.938707,26.819305,Khanyi Shabalala,Online,true
+030244,Hill Tuck Shop,Gauteng,-26.323973,27.805052,Dumisani Radebe,Online,true
+372626,Park Pub & Grill,Gauteng,-25.832295,28.24672,Mpho Shabalala,Online,true
+554997,Main Road Tuck Shop,Limpopo,-23.171664,30.399444,Sello Molefe,Offline,true
+514162,Sipho's Hair Studio,KwaZulu-Natal,-29.850943,30.943294,Sello Mkhize,Offline,true
+601156,Ext 4 Forecourt,Gauteng,-26.244587,28.191061,Andile Molefe,Online,true
+588467,Junction Pub & Grill,Gauteng,-26.018157,28.079675,Themba Nel,Online,true
+227631,Tumi's Place,KwaZulu-Natal,-28.718884,32.014513,Nandi Mokoena,Online,true
+645908,Zone 7 Car Wash & Chill,Gauteng,-26.149689,28.156759,Jabu Ndlovu,Online,true
+453607,Kasi Shisanyama,Free State,-28.98758,26.049965,Sipho Petersen,Online,true
+456753,Baloyi General Dealer,Gauteng,-26.160735,27.947308,Karabo Sithole,Online,true
+553800,Themba & Sons Tavern,Limpopo,-23.959676,29.39574,Khanyi Adams,Online,true
+304550,Karabo's Lounge,Eastern Cape,-32.926186,27.930067,Vusi Maseko,NotInstalled,false
+849843,Sello & Sons Tavern,Limpopo,-23.009011,30.331785,Dumisani Mokoena,Online,true
+667227,Ext 4 Pub & Grill,Gauteng,-26.157061,27.912615,Naledi Mkhize,Online,true
+165960,Taxi Rank Shisanyama,KwaZulu-Natal,-28.844765,32.090427,Musa Ndlovu,Online,true
+342998,Sello's Hair Studio,KwaZulu-Natal,-28.745969,31.972763,Ayanda Zulu,Online,true
+778174,Phase 2 Car Wash & Chill,Gauteng,-25.727289,28.191023,Lwazi Zulu,Online,true
+288956,Ko Tumi's Spot,Gauteng,-25.818117,28.255015,Musa Radebe,Online,true
+576481,Themba & Sons Tavern,KwaZulu-Natal,-29.641478,30.274225,Thabo Molefe,Online,true
+900631,Mthembu Liquor Store,Western Cape,-33.923283,18.478701,Jabu Khumalo,Online,true
+870805,Nandi's Tavern,Mpumalanga,-25.359405,31.095266,Themba Dlamini,Online,true
+071744,Nandi's Hair Studio,Gauteng,-26.109931,28.128378,Precious Zulu,Online,true
+930684,Kagiso & Sons Tavern,KwaZulu-Natal,-29.772684,30.958106,Ayanda Adams,Online,true
+216129,Lerato's Tavern,Eastern Cape,-31.643546,28.894396,Naledi Nkosi,Online,true
+727013,Radebe General Dealer,Western Cape,-33.91832,18.479554,Naledi Mahlangu,Online,true
+509653,Lerato's Salon,KwaZulu-Natal,-29.783171,31.098754,Precious Sithole,Online,true
+358046,Andile's Lounge,Gauteng,-26.18273,28.139164,Thabo Shabalala,Online,true
+306204,Ko Jabu's Spot,Gauteng,-26.098609,27.929182,Dumisani Dlamini,Online,true
+103194,Khanyi's Place,North West,-25.662807,27.304297,Bongani Molefe,NotInstalled,false
+314169,Kasi Car Wash & Chill,Limpopo,-23.802243,29.442684,Andile Khumalo,Online,true
+745187,Lindiwe's Place,Eastern Cape,-32.952945,27.924697,Busi Dlamini,Online,true
+131083,Nkosi General Dealer,Eastern Cape,-31.536718,28.814202,Musa Dlamini,Online,true
+596847,Thabo & Sons Tavern,KwaZulu-Natal,-29.975442,31.062311,Zanele Ndlovu,Offline,true
+350710,Ko Vusi's Spot,Limpopo,-23.940218,29.532245,Sipho Nel,Online,true
+461107,Park Shisanyama,Free State,-28.0739,26.617278,Zanele Cele,Online,true
+611040,Ayanda's Hair Studio,KwaZulu-Natal,-29.774083,30.976818,Lwazi Cele,Online,true
+839709,Zanele's Tavern,Gauteng,-25.82044,28.181807,Naledi Petersen,Online,true
+838138,Park Car Wash & Chill,North West,-25.707946,27.189183,Tshepo Shabalala,Offline,true
+080789,Lerato Spaza,Limpopo,-23.016079,30.386745,Themba Radebe,Online,true
+688885,Market Shisanyama,Gauteng,-26.126421,28.084613,Gugu Nkosi,Online,true
+749274,Station Tuck Shop,Gauteng,-26.262152,27.769275,Lindiwe Ngcobo,Online,true
+274689,Hostel Pub & Grill,Gauteng,-25.804384,28.126301,Dumisani Nkosi,Online,true
+113859,Nomsa & Sons Tavern,Gauteng,-26.343362,28.175476,Nomsa Baloyi,Online,true
+363889,Market Tuck Shop,Gauteng,-26.034064,27.989183,Lerato Ndlovu,Offline,true
+897846,Baloyi General Dealer,Gauteng,-26.10196,28.077799,Bongani Ngcobo,Online,true
+083543,Hostel Tuck Shop,Gauteng,-26.216871,28.111605,Refilwe Baloyi,Online,true
+361555,Ko Naledi's Spot,Mpumalanga,-25.406563,31.099675,Khanyi Cele,Online,true
+715814,Sipho & Sons Tavern,Free State,-29.092303,26.27746,Jabu Ndlovu,Online,true
+662380,Ext 4 Shisanyama,Western Cape,-33.819032,18.524375,Precious Dlamini,Offline,true
+126181,Sello's Lounge,Mpumalanga,-25.397608,31.0922,Jabu Adams,Online,true
+237966,Nomsa Spaza,Gauteng,-25.999514,28.045467,Thabo Ndlovu,Online,true
+201431,Thandi's Tavern,Mpumalanga,-25.840252,29.365295,Gugu Sithole,Offline,true
+632016,Dumisani's Salon,KwaZulu-Natal,-29.537669,30.421931,Sello Sithole,Offline,true
+715166,Lwazi's Hair Studio,Limpopo,-23.974036,29.380109,Mpho Mokoena,Online,true
+471438,Sello & Sons Tavern,KwaZulu-Natal,-30.001959,30.877183,Refilwe Mkhize,Online,true
+233326,Kasi Car Wash & Chill,Eastern Cape,-32.947186,27.979837,Sipho Zulu,Online,true
+110057,Phase 2 Forecourt,KwaZulu-Natal,-29.904245,30.988522,Refilwe Baloyi,Online,true
+056587,Naledi Spaza,Gauteng,-25.710395,28.343516,Sipho Mkhize,Online,true
+376279,Karabo Spaza,North West,-25.663532,27.139579,Lindiwe Zulu,Online,true
+223019,Hostel Shisanyama,Gauteng,-26.243737,28.225146,Vusi Mthembu,Online,true
+579440,Hill Tuck Shop,KwaZulu-Natal,-29.533306,30.434053,Bongani Baloyi,NotInstalled,true
+291908,Jabu's Lounge,Eastern Cape,-33.093856,27.843185,Tumi Zulu,Online,true
+066018,Section B Forecourt,Western Cape,-33.904331,18.777354,Zanele Dlamini,NotInstalled,false
+822548,Corner Forecourt,Northern Cape,-28.719211,24.693946,Karabo Nel,Online,true
+214552,Ext 4 Pub & Grill,Gauteng,-25.800773,28.308466,Thandi Molefe,Online,true
+685859,Station Forecourt,North West,-25.925425,25.732323,Naledi Nel,Online,true
+109907,Ext 4 Car Wash & Chill,Gauteng,-26.321636,28.128131,Musa Mokoena,Offline,true
+778354,Zanele's Tavern,KwaZulu-Natal,-28.858318,31.991894,Lwazi Mahlangu,Online,true
+608593,Kagiso's Tavern,Gauteng,-25.731542,28.249711,Jabu Ngcobo,Online,true
+012426,Ext 4 Forecourt,Western Cape,-34.030593,18.644717,Gugu Petersen,Online,true
+861598,Musa's Hair Studio,Limpopo,-23.89178,29.524285,Bongani Ndlovu,Online,true
+186584,Adams Liquor Store,Gauteng,-26.231059,28.266898,Andile Baloyi,Online,true
+670832,Kasi Pub & Grill,Gauteng,-25.824704,28.327484,Siya Cele,Online,true
+278800,Market Pub & Grill,Limpopo,-23.799204,29.476736,Siya Zulu,Online,true
+862881,Section B Forecourt,Gauteng,-26.08233,28.173872,Lindiwe Mabaso,Online,true
+015407,Busi Spaza,KwaZulu-Natal,-29.898697,30.999548,Tshepo Maseko,Online,true
+705895,Jabu's Salon,Gauteng,-25.683054,28.34348,Lerato Mthembu,Offline,true
+528106,Hostel Shisanyama,KwaZulu-Natal,-29.794903,30.929641,Khanyi Zulu,Online,true
+648796,Ext 4 Forecourt,KwaZulu-Natal,-29.981461,31.002754,Naledi Mokoena,Online,true
+782202,Mandla's Hair Studio,Gauteng,-25.792132,28.286563,Ayanda Mahlangu,Online,true
+460831,Park Pub & Grill,Limpopo,-23.086293,30.374217,Nandi Mkhize,Online,true
+743892,Khanyi's Salon,KwaZulu-Natal,-29.787849,30.923242,Mandla Dlamini,Online,true
+768913,Vusi's Tavern,Eastern Cape,-32.975231,27.800201,Tshepo Radebe,Online,true
+319499,Jabu's Hair Studio,KwaZulu-Natal,-28.808899,32.098311,Tumi Nel,Online,true
+151095,Hostel Car Wash & Chill,Limpopo,-23.841957,29.470732,Vusi Ngcobo,Online,true
+276319,Ko Zanele's Spot,Gauteng,-26.289363,28.206503,Musa Shabalala,Online,true
+552297,Taxi Rank Tuck Shop,Gauteng,-25.680123,28.228544,Busi Ngcobo,Online,true
+985945,Mkhize General Dealer,KwaZulu-Natal,-29.935489,30.983266,Ayanda Mokoena,Online,true
+467777,Ext 4 Tuck Shop,Limpopo,-23.07217,30.411254,Siya Baloyi,Online,true
+117052,Palesa's Tavern,Western Cape,-33.849571,18.611377,Andile Mkhize,Online,true
+921043,Tumi's Place,Gauteng,-25.721947,28.139821,Thabo Adams,Online,true
+217011,Ko Zanele's Spot,Eastern Cape,-33.886472,25.601284,Lwazi Khumalo,Online,true
+472291,Park Pub & Grill,Western Cape,-34.049684,18.74139,Thabo Mahlangu,Online,true
+057195,Cele General Dealer,KwaZulu-Natal,-29.745803,31.030408,Jabu Molefe,Online,true
+611338,Nandi's Lounge,KwaZulu-Natal,-29.599406,30.470097,Mandla Baloyi,Online,true
+950848,Tumi's Place,Gauteng,-25.845689,28.231522,Refilwe Mabaso,Online,true
+943223,Palesa's Hair Studio,Western Cape,-34.162041,18.719465,Precious Ndlovu,Online,true
+760808,Ko Ayanda's Spot,Western Cape,-33.87415,18.768401,Refilwe Molefe,Online,true
+931182,Thandi Spaza,Western Cape,-33.994334,18.564371,Naledi Khumalo,Online,true
+080276,Ext 4 Shisanyama,KwaZulu-Natal,-29.849316,31.02317,Ayanda Zulu,Online,true
+227372,Dumisani's Tavern,Gauteng,-26.308288,28.076354,Gugu Sithole,Online,true
+812913,Themba's Salon,KwaZulu-Natal,-29.969149,30.982048,Refilwe Nkosi,Online,true
+761993,Nel Liquor Store,Gauteng,-25.691832,28.325378,Mandla Mabaso,Online,true
+023512,Palesa's Lounge,Gauteng,-26.300654,27.958347,Refilwe Mabaso,Online,true
+023754,Ko Tumi's Spot,Limpopo,-23.918263,29.543024,Precious Petersen,Online,true
+370822,Dumisani's Salon,Free State,-28.988227,26.083416,Khanyi Zulu,Online,true
+015557,Station Car Wash & Chill,Gauteng,-25.836375,28.276966,Musa Ndlovu,Online,true
+917012,Dumisani's Place,Gauteng,-26.220882,28.037263,Tshepo Radebe,Online,true
+616311,Molefe General Dealer,KwaZulu-Natal,-28.713111,32.064902,Andile Mokoena,Online,true
+504886,Lerato & Sons Tavern,Free State,-29.106585,26.233869,Khanyi Shabalala,Online,true
+862208,Maseko General Dealer,Gauteng,-26.14972,27.967485,Khanyi Mokoena,Online,true
+141093,Village Shisanyama,Gauteng,-26.258639,28.197634,Tshepo Khumalo,Online,true
+951593,Zulu General Dealer,Western Cape,-33.997051,18.534115,Sello Mokoena,Online,true
+856528,Dumisani & Sons Tavern,KwaZulu-Natal,-29.689087,30.412825,Tumi Nkosi,Online,true
+699932,Main Road Shisanyama,Gauteng,-26.195628,28.04853,Jabu Cele,Offline,true
+023634,Mabaso General Dealer,Gauteng,-25.681578,28.113032,Nomsa Nel,Online,true
+482511,Ayanda Spaza,Gauteng,-26.384884,28.075059,Mandla Mokoena,Online,true
+519113,Kasi Tuck Shop,Western Cape,-33.876736,18.463327,Lindiwe Zulu,Offline,true
+952772,Palesa & Sons Tavern,Western Cape,-34.003999,18.452947,Dumisani Petersen,Online,true
+636428,Hill Tuck Shop,Free State,-29.080984,26.122857,Tumi Baloyi,Online,true
+466186,Station Pub & Grill,Eastern Cape,-33.086929,27.864196,Karabo Mahlangu,Online,true
+093243,Ko Palesa's Spot,KwaZulu-Natal,-29.986772,30.978179,Bongani Adams,Online,true
+589993,Junction Forecourt,North West,-25.745781,25.741024,Thabo Mabaso,NotInstalled,true
+575212,Adams Liquor Store,Gauteng,-26.28856,27.933841,Sipho Ngcobo,Online,true
+719744,Section B Pub & Grill,Limpopo,-23.083049,30.297671,Zanele Shabalala,Online,true
+771890,Maseko Liquor Store,KwaZulu-Natal,-28.661933,32.036694,Themba Sithole,Online,true
+847746,Sello's Lounge,Eastern Cape,-34.049763,25.547494,Nomsa Sithole,Online,true
+491357,Section B Forecourt,Limpopo,-23.951083,29.550691,Sello Molefe,Online,true
+047483,Park Car Wash & Chill,North West,-25.954392,25.647372,Precious Petersen,Online,true
+450714,Kagiso's Lounge,KwaZulu-Natal,-29.939212,31.069235,Lwazi Mkhize,Online,true
+025452,Karabo's Hair Studio,Western Cape,-33.88174,18.689051,Tumi Baloyi,Online,true
+919817,Main Road Forecourt,KwaZulu-Natal,-28.797864,31.998756,Mandla Petersen,Online,true
+329997,Musa Spaza,Mpumalanga,-25.961095,29.347179,Tshepo Molefe,Online,true
+739144,Ngcobo General Dealer,Gauteng,-26.165684,28.134376,Tshepo Zulu,Online,true
+799231,Maseko General Dealer,KwaZulu-Natal,-29.894024,30.924348,Thabo Cele,Online,true
+402118,Main Road Forecourt,KwaZulu-Natal,-29.591463,30.390875,Vusi Petersen,Online,true
+940105,Kagiso's Lounge,KwaZulu-Natal,-28.789051,31.924106,Musa Nkosi,NotInstalled,true
+099020,Ext 4 Pub & Grill,Mpumalanga,-25.350098,30.867275,Sipho Ngcobo,Online,true
+826008,Tshepo's Hair Studio,KwaZulu-Natal,-29.80339,31.021871,Dumisani Ngcobo,Online,true
+068880,Kagiso Spaza,KwaZulu-Natal,-28.681934,32.023803,Zanele Radebe,Online,true
+911830,Busi's Tavern,Gauteng,-26.214123,28.002453,Sipho Mahlangu,Online,true
+067593,Themba's Tavern,Limpopo,-23.822638,29.411858,Siya Molefe,Online,true
+092758,Lerato & Sons Tavern,KwaZulu-Natal,-30.001922,31.015893,Thandi Mokoena,Online,true
+722880,Sipho's Place,KwaZulu-Natal,-29.98728,31.03166,Busi Zulu,Online,true
+607857,Mpho's Place,Gauteng,-26.169943,27.964328,Thabo Nkosi,Online,true
+334564,Themba's Lounge,North West,-25.704626,27.151003,Dumisani Mthembu,Online,true
+784313,Ext 4 Shisanyama,Gauteng,-26.31514,28.149432,Busi Mahlangu,Online,true
+970337,Mpho's Tavern,Eastern Cape,-33.050265,27.753516,Nomsa Maseko,NotInstalled,false
+063397,Taxi Rank Pub & Grill,Eastern Cape,-32.933446,27.863499,Andile Baloyi,Online,true
+074227,Thandi & Sons Tavern,KwaZulu-Natal,-29.986642,30.991784,Siya Molefe,Online,true
+036082,Nandi's Hair Studio,KwaZulu-Natal,-29.780559,31.123553,Palesa Dlamini,Online,true
+595611,Ko Precious's Spot,Eastern Cape,-31.660315,28.781436,Palesa Sithole,Online,true
+660283,Tshepo Spaza,KwaZulu-Natal,-28.88323,31.99644,Busi Mahlangu,Online,true
+783231,Zone 7 Pub & Grill,Mpumalanga,-25.510358,30.895303,Zanele Ngcobo,Online,true
+781228,Zanele's Salon,Western Cape,-34.001562,18.564376,Busi Ngcobo,Online,true
+415739,Ko Tshepo's Spot,Limpopo,-24.003,29.557491,Zanele Petersen,Online,true
+848528,Junction Forecourt,Limpopo,-23.116714,30.346501,Zanele Mthembu,Offline,true
+734544,Junction Forecourt,Western Cape,-34.001236,18.714215,Musa Shabalala,Offline,true
+342098,Ko Refilwe's Spot,North West,-25.803078,25.547767,Tshepo Petersen,Online,true
+506173,Market Pub & Grill,Gauteng,-26.153421,28.091125,Dumisani Adams,Online,true
+301847,Palesa's Salon,KwaZulu-Natal,-29.636273,30.436889,Jabu Adams,Online,true
+707376,Nandi's Place,Western Cape,-34.159499,18.686823,Thabo Sithole,Online,true
+875296,Sello's Hair Studio,Western Cape,-34.07116,18.50259,Sipho Nel,Online,true
+862920,Park Shisanyama,KwaZulu-Natal,-28.779709,32.146866,Zanele Radebe,Online,true
+267445,Village Forecourt,KwaZulu-Natal,-28.685772,32.066388,Siya Adams,Online,true
+667540,Baloyi General Dealer,KwaZulu-Natal,-30.032392,30.967643,Busi Khumalo,Online,true
+823863,Sithole General Dealer,Gauteng,-26.246058,27.954179,Lindiwe Baloyi,Online,true
+940242,Phase 2 Car Wash & Chill,KwaZulu-Natal,-29.701482,30.260014,Khanyi Shabalala,Online,true
+937284,Dumisani's Tavern,Gauteng,-26.227816,28.042737,Busi Mkhize,Online,true
+444870,Sello's Hair Studio,Gauteng,-26.324696,28.048534,Mandla Maseko,Online,true
+887192,Hostel Pub & Grill,Northern Cape,-28.823585,24.760244,Themba Khumalo,Online,true
+866148,Phase 2 Forecourt,Gauteng,-26.209952,28.103113,Kagiso Mthembu,Offline,true
+471237,Main Road Shisanyama,Limpopo,-22.966482,30.426266,Zanele Ndlovu,Online,true
+812896,Vusi's Tavern,Gauteng,-25.794895,28.274908,Nandi Mabaso,NotInstalled,true
+556262,Themba's Salon,Western Cape,-33.936834,18.73642,Bongani Radebe,Online,true
+232363,Lwazi & Sons Tavern,Eastern Cape,-33.01153,27.947581,Lerato Mokoena,Online,true
+132654,Sipho & Sons Tavern,Mpumalanga,-25.50773,30.936029,Sello Shabalala,Online,true
+315809,Gugu Spaza,Mpumalanga,-25.443616,30.97242,Refilwe Mkhize,Online,true
+533304,Siya's Salon,Gauteng,-26.009526,28.170212,Precious Ndlovu,Online,true
+223443,Market Forecourt,Gauteng,-26.188194,28.045277,Tshepo Khumalo,Online,true
+068778,Vusi's Place,Gauteng,-26.287027,27.768197,Jabu Ngcobo,Online,true
+643027,Adams General Dealer,Limpopo,-23.842596,29.504467,Nomsa Mokoena,Online,true
+090669,Zanele's Salon,Eastern Cape,-33.905428,25.612794,Zanele Dlamini,Online,true
+610128,Busi & Sons Tavern,Eastern Cape,-31.476941,28.729204,Sello Adams,NotInstalled,true
+790660,Lwazi & Sons Tavern,Western Cape,-33.93143,18.783713,Lwazi Zulu,Online,true
+053726,Tshepo & Sons Tavern,KwaZulu-Natal,-29.859718,31.007927,Lindiwe Mabaso,Online,true
+318285,Mokoena General Dealer,Western Cape,-34.096823,18.721274,Vusi Baloyi,Online,true
+228901,Mthembu Liquor Store,Gauteng,-26.232005,27.792123,Siya Dlamini,Online,true
+094670,Mandla Spaza,Gauteng,-26.293028,27.974367,Siya Ngcobo,Offline,true
+427861,Sithole General Dealer,Eastern Cape,-31.571471,28.866904,Kagiso Mthembu,Online,true
+927788,Nandi & Sons Tavern,Western Cape,-33.868923,18.796521,Zanele Petersen,Online,true
+839841,Taxi Rank Forecourt,KwaZulu-Natal,-29.967577,31.034512,Zanele Mokoena,Online,true
+264417,Taxi Rank Shisanyama,Eastern Cape,-33.924368,25.691677,Tshepo Mkhize,Online,true
+415708,Hostel Tuck Shop,Gauteng,-26.259904,28.154833,Palesa Mthembu,Online,true
+396801,Junction Tuck Shop,Gauteng,-25.717527,28.111086,Tumi Shabalala,Online,true
+468865,Nel General Dealer,Western Cape,-34.035764,18.629488,Lwazi Dlamini,Online,true
+841763,Ext 4 Pub & Grill,Gauteng,-26.225701,27.89757,Andile Mahlangu,Offline,true
+388131,Station Car Wash & Chill,Western Cape,-33.853531,18.310831,Kagiso Ngcobo,Offline,true
+663677,Jabu's Place,Gauteng,-26.42181,28.209792,Busi Baloyi,Online,true
+951971,Thandi's Tavern,KwaZulu-Natal,-29.533766,30.421139,Nomsa Mabaso,Online,true
+419344,Refilwe's Lounge,Gauteng,-26.257106,27.998039,Lerato Petersen,Online,true
+412026,Village Pub & Grill,Western Cape,-33.948891,18.71644,Precious Mokoena,Online,true
+034325,Zanele & Sons Tavern,Limpopo,-23.832324,29.366862,Khanyi Mabaso,Online,true
+207804,Lerato's Place,North West,-25.549578,27.197382,Karabo Petersen,Online,true
+969383,Sello's Tavern,KwaZulu-Natal,-30.028613,31.033613,Precious Sithole,Offline,true
+328086,Mpho's Tavern,Eastern Cape,-31.547136,28.890979,Naledi Mthembu,Offline,true
+963787,Phase 2 Pub & Grill,Eastern Cape,-31.682142,28.814852,Naledi Khumalo,Online,true
+687432,Palesa's Hair Studio,Gauteng,-26.297212,27.883831,Dumisani Nel,Online,true
+153296,Nomsa's Place,KwaZulu-Natal,-28.746829,32.033077,Nandi Adams,Online,true
+691246,Main Road Shisanyama,Northern Cape,-28.684518,24.822921,Karabo Khumalo,Online,true
+284378,Khumalo General Dealer,Northern Cape,-28.717956,24.825681,Mpho Mahlangu,Online,true
+228654,Khumalo Liquor Store,Western Cape,-34.038239,18.695485,Bongani Mabaso,NotInstalled,false
+599100,Siya's Tavern,Limpopo,-23.064659,30.451874,Lerato Petersen,Online,true
+674682,Junction Pub & Grill,Limpopo,-23.848559,29.464114,Dumisani Mokoena,Online,true
+585563,Nomsa Spaza,Eastern Cape,-31.656484,28.734013,Lwazi Nel,Online,true
+477409,Park Forecourt,Mpumalanga,-25.934321,29.318192,Vusi Khumalo,Offline,true
+218935,Nomsa's Tavern,Gauteng,-26.414343,28.127535,Vusi Mahlangu,NotInstalled,true
+278856,Adams General Dealer,Western Cape,-33.872704,18.36226,Tumi Dlamini,Online,true
+023831,Karabo's Place,Gauteng,-25.826915,28.126801,Thandi Baloyi,Online,true
+294596,Main Road Shisanyama,KwaZulu-Natal,-29.97042,30.961838,Siya Petersen,Online,true
+568878,Bongani's Place,Mpumalanga,-25.393853,31.102407,Ayanda Mkhize,Online,true
+506794,Park Pub & Grill,Gauteng,-26.235887,27.929201,Lindiwe Nkosi,Offline,true
+767695,Siya & Sons Tavern,Western Cape,-33.994809,18.603194,Naledi Mabaso,Online,true
+225458,Kagiso & Sons Tavern,Gauteng,-25.739211,28.268684,Tumi Mkhize,Online,true
+129588,Kagiso Spaza,KwaZulu-Natal,-30.074045,30.997489,Ayanda Mthembu,Online,true
+909458,Nandi's Salon,Gauteng,-26.082129,28.086887,Dumisani Ngcobo,Online,true
+703550,Ko Thandi's Spot,Free State,-27.881856,26.71608,Karabo Mabaso,Online,true
+735889,Station Forecourt,North West,-25.592408,27.340084,Naledi Cele,Online,true
+933745,Station Pub & Grill,Eastern Cape,-31.562473,28.901259,Naledi Baloyi,Online,true
+309096,Refilwe's Place,KwaZulu-Natal,-28.788866,31.995717,Vusi Nkosi,Online,true
+098915,Phase 2 Forecourt,Gauteng,-25.648237,28.29217,Zanele Nel,Online,true
+041668,Mokoena Liquor Store,Free State,-29.152512,26.275777,Dumisani Adams,Offline,true
+449201,Dumisani's Tavern,KwaZulu-Natal,-29.990064,30.963872,Nandi Mkhize,Online,true
+348547,Vusi's Salon,Mpumalanga,-25.828033,29.353573,Siya Shabalala,Online,true
+207200,Junction Shisanyama,Limpopo,-23.977295,29.402233,Palesa Baloyi,Online,true
+358701,Phase 2 Car Wash & Chill,Limpopo,-23.175056,30.2972,Mpho Petersen,Online,true
+529129,Molefe General Dealer,Gauteng,-25.833173,28.241052,Zanele Cele,Online,true
+287232,Hostel Pub & Grill,Gauteng,-26.264836,28.116851,Lwazi Mokoena,Online,true
+874445,Thandi & Sons Tavern,Gauteng,-25.78071,28.32393,Andile Adams,Offline,true
+347210,Nkosi Liquor Store,Gauteng,-26.21194,28.225734,Thandi Mahlangu,Online,true
+898631,Themba Spaza,KwaZulu-Natal,-29.915511,30.942239,Mpho Petersen,Online,true
+810240,Hostel Pub & Grill,KwaZulu-Natal,-29.694642,30.359945,Lerato Petersen,Online,true
+645454,Thandi's Tavern,Gauteng,-25.778433,28.126645,Thabo Ngcobo,Offline,true
+631427,Zanele's Salon,Limpopo,-23.002039,30.475,Tumi Dlamini,Online,true
+201588,Precious's Salon,Gauteng,-26.121298,27.99116,Musa Nel,Online,true
+042578,Lwazi's Salon,Gauteng,-26.174197,27.879767,Bongani Ndlovu,Online,true
+659521,Zone 7 Shisanyama,Gauteng,-25.68334,28.189831,Andile Petersen,Online,true
+392638,Zone 7 Tuck Shop,Free State,-28.02118,26.641574,Thabo Cele,Online,true
+281987,Mahlangu General Dealer,Gauteng,-25.747887,28.147202,Busi Dlamini,Online,true
+427032,Thandi's Lounge,Western Cape,-34.039774,18.588341,Themba Molefe,Online,true
+194022,Khumalo Liquor Store,KwaZulu-Natal,-29.57174,30.26095,Nandi Shabalala,Offline,true
+112157,Hill Pub & Grill,Limpopo,-23.890171,29.520463,Andile Mahlangu,Online,true
+562936,Naledi's Tavern,Gauteng,-26.299723,27.834595,Andile Adams,NotInstalled,false
+196386,Precious's Salon,KwaZulu-Natal,-29.846168,30.909913,Dumisani Cele,Online,true
+409816,Taxi Rank Car Wash & Chill,Gauteng,-26.238242,28.050787,Khanyi Baloyi,Online,true
+347069,Naledi's Hair Studio,Gauteng,-26.270941,28.264544,Andile Mokoena,Online,true
+359981,Ko Zanele's Spot,Free State,-29.193128,26.106177,Precious Mabaso,Online,true
+798520,Kagiso's Tavern,KwaZulu-Natal,-29.952126,31.048211,Thabo Molefe,Online,true
+400223,Zone 7 Forecourt,Western Cape,-33.931341,18.488723,Zanele Zulu,Online,true
+987901,Jabu's Lounge,Gauteng,-26.307143,27.876538,Refilwe Mokoena,Online,true
+884182,Busi's Salon,Western Cape,-34.002407,18.515482,Bongani Nel,NotInstalled,true
+063452,Jabu Spaza,KwaZulu-Natal,-29.777305,31.014399,Precious Adams,Online,true
+165337,Junction Forecourt,KwaZulu-Natal,-29.969853,30.93705,Precious Mahlangu,Offline,true
+710662,Sello & Sons Tavern,Mpumalanga,-25.536133,30.891376,Dumisani Mokoena,Online,true
+446322,Jabu's Tavern,Gauteng,-26.245679,27.928549,Thabo Mahlangu,Online,true
+165737,Hill Pub & Grill,KwaZulu-Natal,-29.768522,31.127681,Mpho Radebe,Online,true
+150861,Ext 4 Pub & Grill,Gauteng,-26.140459,28.059788,Zanele Baloyi,Online,true
+018562,Mkhize Liquor Store,Western Cape,-33.993909,18.728988,Mpho Zulu,Online,true
+786476,Sipho Spaza,Eastern Cape,-33.934686,25.654227,Gugu Maseko,Online,true
+420103,Gugu's Tavern,Gauteng,-26.237247,27.987331,Jabu Maseko,Online,true
+330856,Gugu's Lounge,Gauteng,-26.096055,28.054761,Precious Maseko,Online,true
+339388,Hill Tuck Shop,Gauteng,-25.660332,28.244053,Thabo Radebe,Offline,true
+599985,Sipho's Lounge,Gauteng,-26.334397,28.173106,Ayanda Shabalala,Online,true
+078588,Park Car Wash & Chill,KwaZulu-Natal,-29.715673,30.380503,Bongani Shabalala,Online,true
+962863,Tshepo's Place,North West,-25.743347,27.252088,Bongani Maseko,Online,true
+328290,Zulu Liquor Store,KwaZulu-Natal,-29.940444,30.902059,Nomsa Petersen,Offline,true
+122265,Hostel Tuck Shop,Gauteng,-26.370479,27.874772,Dumisani Ngcobo,Online,true
+125166,Kagiso's Tavern,Gauteng,-25.738791,28.116411,Busi Shabalala,Online,true
+260179,Station Pub & Grill,KwaZulu-Natal,-29.645274,30.288965,Tumi Ngcobo,Online,true
+109657,Khumalo Liquor Store,Western Cape,-33.848041,18.689741,Thandi Mokoena,Online,true
+780040,Village Car Wash & Chill,Limpopo,-23.863948,29.427278,Karabo Nel,Online,true
+967150,Lerato's Tavern,Gauteng,-26.247179,27.838605,Musa Mabaso,Online,true
+857034,Section B Tuck Shop,Eastern Cape,-32.90274,27.887271,Lindiwe Mabaso,Online,true
+086858,Ext 4 Tuck Shop,Limpopo,-23.998236,29.547003,Lerato Nkosi,Online,true
+154180,Dumisani & Sons Tavern,KwaZulu-Natal,-30.002458,30.877975,Tshepo Maseko,Online,true
+433528,Tshepo's Place,Gauteng,-26.357448,28.048221,Nomsa Maseko,Online,true
+920061,Mandla's Place,Gauteng,-26.207489,28.24365,Naledi Nel,Online,true
+372333,Ko Mpho's Spot,Western Cape,-33.963113,18.598912,Andile Mokoena,Online,true
+502906,Vusi Spaza,KwaZulu-Natal,-29.758095,30.9372,Gugu Mkhize,Offline,true
+299093,Sipho's Lounge,Gauteng,-26.222625,28.136204,Lindiwe Radebe,Online,true
+632549,Tumi's Tavern,KwaZulu-Natal,-28.741556,31.922129,Thandi Nkosi,Online,true
+334887,Vusi & Sons Tavern,North West,-25.551743,27.211142,Khanyi Radebe,Online,true
+448995,Taxi Rank Car Wash & Chill,KwaZulu-Natal,-29.904712,31.118027,Khanyi Cele,Offline,true
+055355,Sello Spaza,KwaZulu-Natal,-30.017876,30.940473,Lerato Mahlangu,Online,true
+664204,Park Forecourt,KwaZulu-Natal,-29.819301,31.120498,Lwazi Ndlovu,Online,true
+989962,Baloyi Liquor Store,KwaZulu-Natal,-29.906017,30.985911,Bongani Cele,Online,true
+497823,Thabo's Salon,KwaZulu-Natal,-28.739716,32.069673,Thabo Ndlovu,Offline,true
+807939,Mokoena General Dealer,Western Cape,-33.98854,18.46286,Andile Petersen,Online,true
+516326,Nkosi General Dealer,North West,-25.924278,25.553776,Palesa Molefe,Online,true
+974207,Karabo & Sons Tavern,North West,-25.616735,27.209945,Khanyi Molefe,Online,true
+879254,Station Shisanyama,KwaZulu-Natal,-28.753376,31.930536,Lindiwe Zulu,Offline,true
+564173,Dumisani's Hair Studio,KwaZulu-Natal,-29.697173,30.260913,Naledi Mahlangu,Online,true
+462231,Mokoena Liquor Store,Free State,-29.020167,26.100772,Naledi Mkhize,Online,true
+543153,Nel General Dealer,Gauteng,-26.20347,27.774084,Thabo Mabaso,Online,true
+030886,Nel Liquor Store,Gauteng,-26.220068,28.143996,Precious Ndlovu,Offline,true
+833943,Petersen General Dealer,Western Cape,-33.879395,18.47564,Nomsa Zulu,Online,true
+181688,Ko Mandla's Spot,Northern Cape,-28.734746,24.68798,Sipho Mokoena,Online,true
+333786,Village Car Wash & Chill,Northern Cape,-28.662649,24.764797,Khanyi Ndlovu,Online,true
+887970,Vusi's Hair Studio,Gauteng,-25.838258,28.229639,Lwazi Mokoena,Online,true
+134556,Ko Tshepo's Spot,North West,-25.950875,25.619798,Thabo Nkosi,Offline,true
+956662,Ayanda's Place,Eastern Cape,-33.921227,25.604716,Mpho Mokoena,Online,true
+016128,Gugu & Sons Tavern,North West,-25.82964,25.753498,Tumi Radebe,Online,true
+518607,Gugu & Sons Tavern,Gauteng,-25.633517,28.284412,Themba Shabalala,Online,true
+752400,Busi's Tavern,Gauteng,-26.060651,28.109548,Thabo Ngcobo,Online,true
+561940,Ko Thabo's Spot,Eastern Cape,-32.976945,27.912654,Lwazi Radebe,Online,true
+031253,Sello's Tavern,KwaZulu-Natal,-29.67251,30.412036,Thabo Petersen,Online,true
+775606,Nomsa's Tavern,Gauteng,-26.336025,28.06531,Sello Mabaso,Online,true
+410417,Ko Nomsa's Spot,Free State,-28.039962,26.849575,Lerato Mabaso,Online,true
+594898,Sipho's Place,Free State,-29.070709,26.248275,Mpho Ngcobo,Offline,true
+346807,Market Shisanyama,Western Cape,-33.922742,18.450893,Andile Dlamini,Online,true
+103348,Section B Tuck Shop,Gauteng,-26.268371,28.071846,Nandi Mahlangu,Online,true
+788275,Village Pub & Grill,Limpopo,-23.102646,30.384851,Nandi Baloyi,Online,true
+599429,Karabo Spaza,North West,-25.639916,27.266262,Jabu Baloyi,Online,true
+820495,Ext 4 Forecourt,KwaZulu-Natal,-29.898841,30.955355,Mpho Khumalo,Online,true
+052254,Lwazi's Place,Free State,-29.183326,26.271047,Sipho Nkosi,Online,true
+529331,Ko Palesa's Spot,Gauteng,-26.371741,27.863171,Naledi Nel,Offline,true
+159894,Ko Sello's Spot,Western Cape,-34.120972,18.586831,Themba Mkhize,Online,true
+300655,Ko Vusi's Spot,Gauteng,-26.309877,27.904694,Dumisani Mabaso,Online,true
+223098,Siya & Sons Tavern,Free State,-28.023069,26.693547,Dumisani Ngcobo,Online,true
+698722,Andile's Lounge,Eastern Cape,-31.623679,28.889624,Precious Baloyi,Online,true
+229011,Palesa's Salon,Limpopo,-23.938265,29.561029,Lwazi Baloyi,Online,true
+600351,Sello's Place,North West,-25.595243,27.188081,Siya Ngcobo,Online,true
+704564,Kagiso's Hair Studio,KwaZulu-Natal,-29.896671,30.907397,Mandla Khumalo,Online,true
+451794,Kasi Forecourt,Gauteng,-25.811279,28.214255,Nandi Shabalala,Online,true
+877140,Ext 4 Tuck Shop,Mpumalanga,-25.506263,31.034238,Thabo Maseko,Online,true
+073901,Kagiso & Sons Tavern,Eastern Cape,-33.867991,25.527094,Jabu Mabaso,Online,true
+960227,Siya's Hair Studio,Gauteng,-26.172517,28.117633,Zanele Mokoena,NotInstalled,false
+353946,Jabu's Tavern,Gauteng,-26.138681,27.94379,Kagiso Adams,Online,true
+217041,Siya's Salon,KwaZulu-Natal,-28.813979,32.039209,Ayanda Ngcobo,NotInstalled,true
+377330,Thandi's Salon,Gauteng,-26.112808,28.035,Themba Zulu,Online,true
+778069,Lerato's Tavern,Limpopo,-23.830682,29.382641,Musa Mahlangu,Online,true
+067698,Zulu General Dealer,Gauteng,-26.018768,27.949723,Lwazi Sithole,Online,true
+393205,Mpho's Hair Studio,Mpumalanga,-25.401078,30.988297,Nandi Shabalala,Online,true
+020485,Baloyi General Dealer,Western Cape,-33.9584,18.613991,Lindiwe Maseko,Online,true
+360691,Taxi Rank Tuck Shop,North West,-25.794787,25.755306,Ayanda Mokoena,Online,true
+799727,Mthembu General Dealer,North West,-25.914047,25.722719,Sello Baloyi,Offline,true
+253329,Gugu's Place,KwaZulu-Natal,-29.854561,30.910002,Mpho Cele,Online,true
+852240,Lerato's Tavern,KwaZulu-Natal,-29.496949,30.425371,Tshepo Nel,Online,true
+086636,Kasi Pub & Grill,Gauteng,-26.390247,28.130457,Naledi Baloyi,Online,true
+366949,Junction Car Wash & Chill,Limpopo,-22.982991,30.401444,Lwazi Khumalo,Offline,true
+113268,Nkosi Liquor Store,Mpumalanga,-25.949777,29.138892,Palesa Dlamini,Online,true
+731232,Sello's Tavern,Gauteng,-26.276351,28.06951,Dumisani Mthembu,Online,true
+919240,Kasi Forecourt,KwaZulu-Natal,-30.057057,30.826208,Bongani Cele,Online,true
+349989,Mandla's Hair Studio,Northern Cape,-28.841294,24.80765,Precious Baloyi,Online,true
+565364,Zone 7 Shisanyama,Eastern Cape,-31.697625,28.724913,Naledi Dlamini,Online,true
+730304,Khanyi's Place,Limpopo,-23.821591,29.492689,Vusi Nkosi,Offline,true
+856523,Nel Liquor Store,KwaZulu-Natal,-29.887209,31.031171,Vusi Khumalo,Online,true
+021552,Ayanda & Sons Tavern,Eastern Cape,-33.026554,27.843435,Zanele Mkhize,Online,true
+439182,Kasi Car Wash & Chill,Eastern Cape,-32.980189,27.752993,Palesa Adams,Online,true
+282303,Lerato Spaza,Gauteng,-26.100679,27.976654,Ayanda Nel,Online,true
+627525,Sipho's Lounge,Free State,-29.198165,26.156144,Bongani Nel,Online,true
+971371,Mandla's Place,Gauteng,-26.153794,28.096339,Nandi Shabalala,Online,true
+559266,Zanele's Tavern,Gauteng,-26.311361,28.042531,Tshepo Nkosi,Online,true
+597735,Market Car Wash & Chill,KwaZulu-Natal,-28.703159,32.019898,Jabu Shabalala,Online,true
+681539,Village Forecourt,KwaZulu-Natal,-28.689413,32.081326,Thandi Mokoena,Online,true
+512492,Musa's Lounge,Gauteng,-26.095389,28.020591,Sipho Sithole,Online,true
+580847,Ayanda's Hair Studio,Northern Cape,-28.663958,24.76654,Naledi Nkosi,Offline,true
+581322,Zone 7 Pub & Grill,Gauteng,-26.173523,28.015176,Andile Ngcobo,Online,true
+440019,Section B Tuck Shop,KwaZulu-Natal,-28.880626,32.153385,Palesa Ngcobo,Offline,true
+711844,Tshepo's Tavern,Gauteng,-25.771128,28.287474,Zanele Sithole,Online,true
+067688,Musa's Place,North West,-25.710461,27.342627,Dumisani Cele,Online,true
+650959,Dlamini Liquor Store,Eastern Cape,-32.997515,27.981251,Tshepo Shabalala,Online,true
+632045,Kasi Forecourt,Limpopo,-23.119212,30.472115,Nomsa Mkhize,Online,true
+246102,Hill Forecourt,Limpopo,-23.880383,29.462566,Musa Mthembu,Online,true
+107073,Gugu's Hair Studio,Western Cape,-33.982863,18.459924,Lerato Ngcobo,Online,true
+796311,Tshepo & Sons Tavern,Northern Cape,-28.668338,24.734748,Tumi Nel,Online,true
+347254,Karabo's Hair Studio,KwaZulu-Natal,-29.744426,30.985653,Sipho Ndlovu,Online,true
+019578,Refilwe's Place,Mpumalanga,-25.835626,29.198163,Palesa Mkhize,Online,true
+500430,Sello's Place,Gauteng,-26.37159,27.789163,Nomsa Ngcobo,Online,true
+511157,Lindiwe's Lounge,North West,-25.708309,27.277494,Bongani Nel,Online,true
+306032,Themba & Sons Tavern,Gauteng,-25.841403,28.111454,Karabo Dlamini,Online,true
+679185,Ext 4 Pub & Grill,Eastern Cape,-32.996355,27.974611,Tumi Shabalala,Online,true
+452346,Thandi's Place,Gauteng,-26.247924,28.032718,Palesa Mkhize,Online,true
+521409,Vusi's Tavern,KwaZulu-Natal,-29.713896,30.35508,Thandi Khumalo,Online,true
+178693,Ngcobo Liquor Store,Gauteng,-26.355872,28.151491,Nandi Sithole,Online,true
+475498,Maseko General Dealer,Gauteng,-26.289212,28.045868,Tumi Molefe,Online,true
+879515,Ko Precious's Spot,North West,-25.67508,27.333488,Ayanda Khumalo,Online,true
+267401,Village Car Wash & Chill,North West,-25.761432,25.558892,Naledi Shabalala,Online,true
+672338,Mandla's Hair Studio,Limpopo,-23.898274,29.53287,Precious Nkosi,Online,true
+015619,Themba's Place,Gauteng,-26.257323,28.225311,Lerato Molefe,Online,true
+077239,Ko Sipho's Spot,Gauteng,-26.094086,28.129892,Khanyi Adams,Online,true
+547115,Precious & Sons Tavern,Gauteng,-26.156245,28.165566,Tshepo Baloyi,Online,true
+807862,Ko Mpho's Spot,KwaZulu-Natal,-29.801246,30.985231,Zanele Adams,Offline,true
+334696,Khanyi's Hair Studio,Gauteng,-26.258512,28.204375,Siya Zulu,Online,true
+955194,Musa & Sons Tavern,Gauteng,-26.154122,27.948962,Thabo Nel,Offline,true
+244153,Lwazi's Lounge,Eastern Cape,-31.504646,28.777957,Themba Khumalo,Online,true
+049838,Themba's Hair Studio,North West,-25.60005,27.159266,Zanele Zulu,Online,true
+927973,Nel General Dealer,North West,-25.572555,27.3522,Naledi Molefe,Online,true
+860020,Nel Liquor Store,Western Cape,-34.005002,18.74083,Khanyi Zulu,Online,true
+519735,Section B Car Wash & Chill,Eastern Cape,-33.058281,27.774679,Sello Mabaso,Online,true
+128028,Mthembu General Dealer,Limpopo,-23.174654,30.424559,Kagiso Ngcobo,Online,true
+632544,Tumi Spaza,KwaZulu-Natal,-29.879112,30.998814,Siya Mabaso,Online,true
+451848,Naledi & Sons Tavern,Gauteng,-26.101208,28.102539,Mandla Khumalo,Online,true
+117787,Thandi's Hair Studio,Gauteng,-26.203352,27.95753,Tshepo Petersen,NotInstalled,false
+573090,Section B Forecourt,Gauteng,-26.219798,27.982674,Thandi Cele,Online,true
+415242,Tumi's Hair Studio,Gauteng,-26.21716,27.982895,Palesa Baloyi,Online,true
+577175,Precious's Lounge,Gauteng,-26.25807,27.95032,Sipho Maseko,Online,true
+398472,Lwazi's Place,Limpopo,-23.857143,29.437011,Khanyi Petersen,Online,true
+418807,Ko Zanele's Spot,Gauteng,-26.33159,27.953458,Nomsa Radebe,Offline,true
+995435,Vusi's Hair Studio,Eastern Cape,-33.887804,25.691814,Ayanda Mkhize,Online,true
+561425,Main Road Shisanyama,Gauteng,-26.239726,27.848036,Khanyi Mthembu,Online,true
+193084,Zanele's Tavern,Free State,-28.037901,26.780166,Jabu Maseko,Online,true
+370258,Tshepo's Salon,Gauteng,-26.047696,28.13725,Mpho Maseko,Online,true
+428476,Park Tuck Shop,Limpopo,-23.868893,29.352453,Vusi Ngcobo,Online,true
+658579,Nkosi Liquor Store,Mpumalanga,-25.384715,31.102869,Lindiwe Dlamini,Online,true
+016918,Junction Shisanyama,North West,-25.794407,25.724836,Mpho Nel,Offline,true
+903824,Phase 2 Tuck Shop,Gauteng,-25.996177,28.023395,Gugu Khumalo,Offline,true
+201646,Siya's Salon,Gauteng,-26.230525,27.861443,Ayanda Petersen,Online,true
+654586,Kasi Car Wash & Chill,Western Cape,-34.039664,18.333612,Mandla Radebe,Online,true
+646003,Refilwe's Salon,KwaZulu-Natal,-29.900395,30.943645,Musa Ndlovu,Online,true
+746264,Ko Khanyi's Spot,Gauteng,-26.246019,28.047726,Musa Ndlovu,Online,true
+503702,Precious's Tavern,Gauteng,-25.848177,28.142993,Nandi Maseko,Online,true
+864516,Kagiso's Hair Studio,Gauteng,-25.649167,28.210217,Bongani Radebe,NotInstalled,false
+739001,Market Pub & Grill,Gauteng,-26.325335,27.923316,Siya Maseko,Online,true
+268999,Ko Lindiwe's Spot,Gauteng,-26.139088,27.9501,Sello Khumalo,Online,true
+754821,Park Tuck Shop,KwaZulu-Natal,-29.684206,30.353594,Nomsa Mthembu,Online,true
+040088,Nandi's Salon,Gauteng,-25.749591,28.165414,Ayanda Petersen,Online,true
+540983,Kasi Forecourt,Eastern Cape,-33.08139,27.980436,Bongani Mthembu,Online,true
+211000,Section B Car Wash & Chill,Gauteng,-26.123039,28.161749,Busi Mabaso,NotInstalled,true
+093812,Lerato's Salon,KwaZulu-Natal,-29.71744,30.48974,Mandla Nel,Online,true
+548841,Precious & Sons Tavern,KwaZulu-Natal,-30.068315,30.868862,Jabu Mabaso,Online,true
+350010,Sipho's Salon,Limpopo,-24.007626,29.434667,Nandi Cele,Online,true
+773288,Zanele & Sons Tavern,Limpopo,-23.065931,30.488376,Dumisani Khumalo,Online,true
+407358,Mandla's Lounge,KwaZulu-Natal,-29.668347,30.30513,Musa Ngcobo,Online,true
+899864,Jabu's Hair Studio,Limpopo,-22.984024,30.446273,Khanyi Mkhize,Online,true
+442847,Vusi's Tavern,Gauteng,-25.829641,28.122815,Lwazi Ngcobo,Online,true
+656605,Karabo Spaza,Limpopo,-23.073128,30.365727,Musa Ngcobo,Offline,true
+974019,Lwazi's Tavern,KwaZulu-Natal,-29.651217,30.285151,Ayanda Molefe,Online,true
+480133,Corner Car Wash & Chill,Free State,-28.077473,26.656411,Bongani Mthembu,Online,true
+919065,Ko Ayanda's Spot,KwaZulu-Natal,-29.687266,30.38894,Busi Nel,Online,true
+659875,Ext 4 Pub & Grill,Gauteng,-25.781007,28.326717,Bongani Cele,Online,true
+269405,Junction Shisanyama,Limpopo,-23.144615,30.48225,Dumisani Mthembu,Offline,true
+799634,Corner Car Wash & Chill,Mpumalanga,-25.551316,30.985011,Siya Mahlangu,Online,true
+176085,Corner Car Wash & Chill,Gauteng,-26.357088,28.094601,Nandi Baloyi,Online,true
+965860,Musa's Tavern,KwaZulu-Natal,-29.858112,30.98909,Themba Mthembu,Online,true
+053595,Phase 2 Car Wash & Chill,Western Cape,-34.075747,18.563713,Vusi Radebe,Online,true
+106650,Hill Pub & Grill,Gauteng,-26.085755,28.018858,Musa Radebe,Online,true
+045262,Khanyi's Lounge,Limpopo,-23.91303,29.521307,Andile Shabalala,Online,true
+984373,Lindiwe's Tavern,Gauteng,-26.33765,28.122627,Lerato Khumalo,Offline,true
+037110,Dlamini Liquor Store,Free State,-28.07439,26.617616,Busi Adams,Online,true
+366279,Village Forecourt,Western Cape,-33.90528,18.397333,Nandi Maseko,Offline,true
+739826,Petersen General Dealer,North West,-25.947315,25.62908,Jabu Molefe,Online,true
+946848,Junction Pub & Grill,Western Cape,-33.925917,18.325599,Kagiso Nel,Online,true
+091262,Market Forecourt,Eastern Cape,-34.01774,25.675195,Themba Cele,Online,true
+428051,Thandi's Place,Mpumalanga,-25.983901,29.136634,Thandi Sithole,Online,true
+169711,Mpho's Lounge,Western Cape,-34.085229,18.565752,Lindiwe Mabaso,NotInstalled,true
+453802,Hill Car Wash & Chill,Western Cape,-33.944575,18.590363,Palesa Baloyi,Online,true
+269713,Thabo's Place,Gauteng,-25.645882,28.165767,Lindiwe Adams,Online,true
+081779,Phase 2 Car Wash & Chill,Gauteng,-25.64264,28.149962,Ayanda Mthembu,Online,true
+022839,Sello's Salon,Western Cape,-33.983084,18.42249,Gugu Nkosi,Online,true
+133701,Khumalo General Dealer,KwaZulu-Natal,-29.743484,30.973906,Musa Khumalo,Online,true
+309074,Gugu Spaza,KwaZulu-Natal,-29.878273,31.01014,Ayanda Radebe,Online,true
+682869,Dlamini General Dealer,Limpopo,-23.069422,30.460553,Ayanda Nkosi,Online,true
+871999,Ngcobo General Dealer,Gauteng,-25.851332,28.30225,Thandi Cele,Online,true
+145604,Khanyi & Sons Tavern,KwaZulu-Natal,-28.900203,32.128777,Lindiwe Cele,Online,true
+773716,Nomsa & Sons Tavern,Free State,-27.857101,26.629102,Nomsa Ndlovu,Online,true
+223938,Khanyi Spaza,Limpopo,-23.958404,29.446322,Lindiwe Ngcobo,Online,true
+420974,Ko Naledi's Spot,KwaZulu-Natal,-29.520029,30.375724,Andile Khumalo,Online,true
+326152,Park Tuck Shop,KwaZulu-Natal,-29.95158,30.911229,Vusi Mthembu,Online,true
+484852,Busi's Place,Gauteng,-26.192175,28.096334,Musa Shabalala,Online,true
+014398,Dumisani's Lounge,Gauteng,-25.836323,28.243229,Andile Shabalala,Online,true
+689696,Park Shisanyama,KwaZulu-Natal,-29.857601,31.090364,Kagiso Ndlovu,Online,true
+342361,Mabaso General Dealer,North West,-25.748995,27.313737,Thandi Nel,Online,true
+268101,Musa Spaza,Western Cape,-33.85769,18.708005,Tumi Sithole,Online,true
+767888,Vusi's Lounge,Eastern Cape,-34.077948,25.69186,Nomsa Molefe,Online,true
+417159,Palesa's Salon,KwaZulu-Natal,-29.976717,30.858466,Busi Mthembu,Online,true
+883413,Hostel Pub & Grill,Gauteng,-26.097688,28.043896,Lwazi Adams,Offline,true
+884741,Lwazi's Place,Free State,-29.018066,26.08047,Thabo Zulu,Offline,true
+666840,Nandi's Hair Studio,Gauteng,-25.765456,28.214538,Ayanda Radebe,Online,true
+184692,Main Road Tuck Shop,Gauteng,-26.299667,28.114739,Lindiwe Petersen,Online,true
+928880,Zanele's Hair Studio,Western Cape,-33.933222,18.801095,Nomsa Ngcobo,Offline,true
+115610,Thandi's Salon,Limpopo,-23.94242,29.354412,Mpho Mthembu,Online,true
+043909,Nandi's Place,Gauteng,-26.300437,27.922078,Busi Baloyi,Online,true
+443873,Nandi & Sons Tavern,Western Cape,-33.946378,18.457329,Bongani Nel,Online,true
+218841,Ko Gugu's Spot,Gauteng,-26.348851,27.819301,Nomsa Dlamini,Online,true
+586408,Vusi's Salon,KwaZulu-Natal,-29.837952,31.034476,Naledi Baloyi,NotInstalled,false
+034360,Park Car Wash & Chill,Gauteng,-25.64399,28.13914,Tshepo Nel,Offline,true
+491724,Station Shisanyama,Eastern Cape,-31.70081,28.876337,Khanyi Shabalala,Online,true
+013378,Thandi Spaza,Mpumalanga,-25.482837,30.952119,Bongani Mthembu,Online,true
+303543,Baloyi General Dealer,Western Cape,-34.058027,18.673033,Naledi Petersen,Online,true
+985089,Park Tuck Shop,Western Cape,-34.061529,18.523104,Musa Mahlangu,Online,true
+468741,Ext 4 Forecourt,KwaZulu-Natal,-29.521898,30.453157,Sello Shabalala,Online,true
+565393,Naledi's Place,Gauteng,-26.147502,28.159921,Bongani Mabaso,Offline,true
+839756,Baloyi Liquor Store,Gauteng,-26.193393,28.114467,Zanele Khumalo,Offline,true
+689125,Andile Spaza,Gauteng,-26.436742,28.211645,Siya Mokoena,Online,true
+760223,Mpho's Hair Studio,Free State,-29.09939,26.185726,Thandi Molefe,Online,true
+283965,Kagiso's Salon,Free State,-27.983205,26.756626,Bongani Maseko,Online,true
+197791,Tshepo's Tavern,North West,-25.666375,27.163176,Thabo Petersen,Online,true
+679764,Refilwe's Place,Limpopo,-23.129951,30.391439,Refilwe Molefe,Online,true
+094890,Mpho Spaza,KwaZulu-Natal,-29.743267,30.975741,Khanyi Nkosi,Online,true
+153084,Hostel Tuck Shop,Gauteng,-26.120494,28.143689,Dumisani Shabalala,Online,true
+626241,Dlamini General Dealer,Western Cape,-34.145463,18.520441,Jabu Adams,Online,true
+062931,Ext 4 Forecourt,KwaZulu-Natal,-29.50473,30.310423,Thandi Nel,Online,true
+200092,Village Pub & Grill,Eastern Cape,-31.690813,28.799507,Karabo Ngcobo,Online,true
+604349,Zanele's Lounge,Free State,-29.200914,26.277735,Thandi Ndlovu,Online,true
+340846,Section B Car Wash & Chill,Mpumalanga,-25.500078,31.036222,Sello Mabaso,Online,true
+653421,Nkosi General Dealer,Western Cape,-34.010058,18.719208,Bongani Adams,Online,true
+085042,Nandi & Sons Tavern,Limpopo,-23.930227,29.587806,Mpho Molefe,Online,true
+488845,Hill Shisanyama,Free State,-29.000479,26.040998,Tshepo Mkhize,Online,true
+889654,Kasi Pub & Grill,Gauteng,-26.202695,28.159061,Palesa Nel,NotInstalled,true
+527674,Sipho's Tavern,Limpopo,-23.897366,29.585131,Zanele Shabalala,Online,true
+545401,Taxi Rank Forecourt,Gauteng,-26.111951,28.043976,Lwazi Mthembu,Offline,true
+871183,Jabu's Lounge,Eastern Cape,-31.654626,28.894557,Refilwe Mkhize,Online,true
+082940,Siya Spaza,Gauteng,-26.382828,28.089809,Siya Ndlovu,Offline,true
+900798,Market Shisanyama,Mpumalanga,-25.436646,30.997526,Busi Dlamini,Offline,true
+991246,Main Road Forecourt,KwaZulu-Natal,-29.895361,30.960415,Busi Shabalala,Online,true
+725105,Phase 2 Tuck Shop,Gauteng,-26.206974,27.775681,Lerato Petersen,Online,true
+131099,Bongani's Tavern,KwaZulu-Natal,-29.960578,31.014029,Tshepo Mkhize,Online,true
+417118,Ext 4 Pub & Grill,KwaZulu-Natal,-29.524833,30.470654,Ayanda Ngcobo,Online,true
+629457,Bongani's Hair Studio,Eastern Cape,-31.687802,28.900485,Lerato Shabalala,Online,true
+325902,Sello & Sons Tavern,Gauteng,-26.044861,28.144141,Sello Sithole,Online,true
+307572,Mkhize General Dealer,Eastern Cape,-33.846966,25.550766,Lwazi Zulu,Online,true
+419317,Refilwe & Sons Tavern,Gauteng,-26.091402,28.043912,Themba Mokoena,Online,true
+132269,Ko Mandla's Spot,Gauteng,-26.296811,27.948976,Palesa Sithole,Online,true
+689109,Taxi Rank Pub & Grill,KwaZulu-Natal,-29.928019,30.950702,Lerato Shabalala,Online,true
+018303,Corner Forecourt,KwaZulu-Natal,-29.668314,30.264707,Vusi Sithole,Online,true
+562987,Village Pub & Grill,North West,-25.741068,27.321689,Sello Mokoena,Online,true
+510764,Taxi Rank Pub & Grill,KwaZulu-Natal,-29.758566,30.911317,Dumisani Mokoena,Online,true
+246972,Hill Shisanyama,KwaZulu-Natal,-29.754446,31.053196,Lerato Zulu,Online,true
+990259,Mandla's Salon,KwaZulu-Natal,-29.913727,31.010422,Jabu Maseko,Online,true
+063067,Section B Pub & Grill,Eastern Cape,-32.985663,27.933057,Lerato Mkhize,Online,true
+700015,Khanyi's Place,Free State,-28.096642,26.750991,Palesa Baloyi,Offline,true
+874149,Nandi Spaza,Eastern Cape,-31.564254,28.777001,Sipho Maseko,Offline,true
+194045,Vusi's Hair Studio,Gauteng,-25.729464,28.224885,Karabo Nkosi,Online,true
+630472,Main Road Tuck Shop,Gauteng,-26.437482,28.087169,Khanyi Mkhize,Online,true
+270481,Mabaso Liquor Store,Gauteng,-25.75073,28.146871,Naledi Mahlangu,NotInstalled,false
+489154,Hill Forecourt,Gauteng,-26.269433,28.249995,Jabu Mahlangu,Online,true
+646886,Zanele's Lounge,Eastern Cape,-32.935936,27.895634,Thabo Mthembu,Online,true
+306500,Kasi Forecourt,Gauteng,-26.416229,28.064923,Vusi Mabaso,Online,true
+060597,Ko Palesa's Spot,Limpopo,-23.946757,29.471244,Karabo Sithole,Online,true
+113861,Naledi's Salon,KwaZulu-Natal,-29.637361,30.304632,Ayanda Molefe,Online,true
+583109,Station Car Wash & Chill,Northern Cape,-28.774459,24.80835,Palesa Khumalo,Online,true
+936642,Taxi Rank Tuck Shop,Gauteng,-26.248829,28.268584,Karabo Mabaso,Online,true
+319852,Musa's Salon,Western Cape,-34.055711,18.818883,Nandi Mabaso,NotInstalled,false
+086968,Corner Tuck Shop,KwaZulu-Natal,-28.731131,32.150855,Andile Ndlovu,Online,true
+890102,Kasi Shisanyama,KwaZulu-Natal,-29.715295,30.340944,Musa Maseko,Online,true
+919744,Zone 7 Car Wash & Chill,Gauteng,-26.251504,28.103887,Lwazi Mthembu,Online,true
+622041,Lerato's Tavern,Mpumalanga,-25.834323,29.297578,Jabu Radebe,Online,true
+773509,Lindiwe's Place,North West,-25.849065,25.548771,Khanyi Petersen,Online,true
+289923,Ko Dumisani's Spot,Gauteng,-26.005644,27.989869,Kagiso Ndlovu,Online,true
+620829,Main Road Pub & Grill,Eastern Cape,-31.550601,28.723705,Precious Maseko,Online,true
+739908,Themba Spaza,Gauteng,-25.650639,28.198612,Palesa Maseko,Online,true
+405449,Sello's Place,Gauteng,-26.314097,28.242823,Refilwe Ndlovu,Online,true
+251919,Phase 2 Pub & Grill,Gauteng,-26.101417,27.940684,Kagiso Zulu,NotInstalled,true
+837531,Tshepo's Tavern,Gauteng,-26.327101,27.954002,Vusi Radebe,Online,true
+190500,Kagiso & Sons Tavern,Western Cape,-34.092521,18.725629,Dumisani Radebe,Online,true
+239598,Tumi Spaza,Gauteng,-26.200068,27.965288,Busi Shabalala,NotInstalled,false
+600615,Precious's Place,Northern Cape,-28.791195,24.705804,Andile Maseko,Online,true
+368098,Hill Pub & Grill,KwaZulu-Natal,-30.063455,30.929894,Jabu Cele,Offline,true
+046440,Kasi Tuck Shop,Free State,-27.966062,26.723297,Ayanda Radebe,Online,true
+318666,Karabo & Sons Tavern,KwaZulu-Natal,-28.779667,32.129137,Dumisani Ndlovu,Online,true
+390126,Section B Shisanyama,Gauteng,-26.205242,28.129261,Tshepo Petersen,Online,true
+073375,Lerato's Hair Studio,KwaZulu-Natal,-29.53319,30.485451,Karabo Maseko,Online,true
+663297,Busi & Sons Tavern,Gauteng,-26.271699,28.157941,Musa Baloyi,Online,true
+151974,Station Tuck Shop,KwaZulu-Natal,-28.856889,31.943782,Sello Sithole,Online,true
+292423,Nomsa Spaza,Gauteng,-26.228069,28.208801,Khanyi Shabalala,Online,true
+394246,Ayanda Spaza,Eastern Cape,-31.557041,28.886085,Mandla Baloyi,NotInstalled,false
+053284,Kagiso Spaza,Gauteng,-26.28776,28.182325,Thabo Molefe,Online,true
+606854,Main Road Shisanyama,KwaZulu-Natal,-29.837836,30.978075,Nandi Khumalo,Offline,true
+478142,Palesa's Place,KwaZulu-Natal,-29.769749,31.100232,Vusi Mkhize,Online,true
+376132,Khanyi & Sons Tavern,Free State,-29.041928,26.189056,Vusi Nkosi,Online,true
+940584,Gugu & Sons Tavern,Eastern Cape,-31.485897,28.725899,Vusi Baloyi,Online,true
+919140,Bongani Spaza,Eastern Cape,-31.647134,28.669352,Musa Khumalo,Online,true
+772429,Ndlovu Liquor Store,Northern Cape,-28.655727,24.660525,Andile Cele,Offline,true
+925488,Station Car Wash & Chill,Gauteng,-25.769389,28.239928,Bongani Mokoena,Online,true
+243311,Junction Forecourt,Eastern Cape,-33.9866,25.57406,Tumi Petersen,Online,true
+761528,Park Pub & Grill,Eastern Cape,-32.882039,27.841868,Tumi Petersen,Online,true
+532298,Andile's Lounge,Eastern Cape,-32.910373,27.854506,Lindiwe Cele,Online,true
+023988,Ngcobo General Dealer,Eastern Cape,-33.998155,25.484955,Jabu Baloyi,Online,true
+437046,Thabo's Salon,Gauteng,-26.143555,27.994987,Khanyi Baloyi,Online,true
+908688,Village Car Wash & Chill,Gauteng,-26.118202,28.013058,Siya Mokoena,NotInstalled,true
+536727,Ko Nandi's Spot,Mpumalanga,-25.509887,31.104142,Sello Molefe,Online,true
+565076,Phase 2 Forecourt,KwaZulu-Natal,-30.065452,30.943833,Nomsa Maseko,Online,true
+735150,Mabaso General Dealer,Mpumalanga,-25.403197,30.901463,Lindiwe Radebe,Online,true
+338386,Taxi Rank Pub & Grill,Gauteng,-25.752,28.198958,Themba Mkhize,Online,true
+254518,Khanyi's Tavern,Gauteng,-26.289123,28.141738,Vusi Baloyi,Online,true
+658918,Sipho's Salon,Eastern Cape,-34.025309,25.565374,Khanyi Dlamini,Online,true
+452037,Precious & Sons Tavern,North West,-25.78371,27.283353,Precious Ndlovu,Online,true
+681552,Park Shisanyama,Free State,-27.922427,26.825055,Khanyi Mthembu,Online,true
+559330,Nomsa's Place,KwaZulu-Natal,-29.952747,31.027739,Tumi Mthembu,Online,true
+032863,Andile's Place,Gauteng,-26.160873,28.020773,Naledi Shabalala,Online,true
+501421,Ext 4 Car Wash & Chill,Limpopo,-23.868864,29.4466,Thabo Sithole,Online,true
+822873,Taxi Rank Tuck Shop,Gauteng,-26.114365,27.982517,Thabo Baloyi,Online,true
+059380,Dlamini General Dealer,KwaZulu-Natal,-29.944602,30.945643,Tshepo Zulu,Online,true
+988609,Busi's Salon,Western Cape,-33.827271,18.418349,Sello Mokoena,Online,true
+727946,Taxi Rank Forecourt,Gauteng,-26.280265,28.068938,Khanyi Sithole,Online,true
+337377,Village Tuck Shop,North West,-25.742673,27.153682,Precious Mthembu,Online,true
+766075,Zone 7 Pub & Grill,Limpopo,-22.96774,30.464065,Lwazi Mahlangu,Online,true
+569373,Main Road Shisanyama,Gauteng,-26.240137,28.183196,Nandi Sithole,Online,true
+617301,Zone 7 Forecourt,Gauteng,-26.301015,28.049822,Thabo Nkosi,Online,true
+124855,Thabo & Sons Tavern,KwaZulu-Natal,-29.9317,30.996019,Nandi Maseko,Online,true
+115323,Sipho's Salon,KwaZulu-Natal,-29.626162,30.41932,Kagiso Mthembu,Online,true
+737944,Ko Themba's Spot,Gauteng,-25.782269,28.147447,Thandi Ndlovu,NotInstalled,false
+069672,Hill Car Wash & Chill,Gauteng,-25.822543,28.266352,Thandi Mthembu,NotInstalled,true
+602578,Themba & Sons Tavern,Free State,-29.149323,26.234982,Dumisani Maseko,Online,true
+456452,Hostel Forecourt,KwaZulu-Natal,-29.992556,31.02596,Sipho Adams,Online,true
+143017,Palesa's Salon,Western Cape,-33.815895,18.515052,Sipho Mkhize,Online,true
+939599,Taxi Rank Car Wash & Chill,Western Cape,-33.933221,18.414968,Musa Shabalala,Online,true
+403679,Mandla Spaza,Gauteng,-26.119731,27.946828,Vusi Mokoena,Online,true
+985507,Zone 7 Forecourt,Gauteng,-26.252433,27.998251,Mandla Mokoena,Online,true
+154842,Ko Palesa's Spot,Eastern Cape,-32.973042,27.883514,Lindiwe Sithole,Online,true
