@@ -1,6 +1,7 @@
 using BarrowsWifi.Api.Data;
 using BarrowsWifi.Api.Domain;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Claims;
 
 namespace BarrowsWifi.Api.Infrastructure;
 
@@ -21,12 +22,9 @@ public class ReportService
 
     public ReportService(AppDbContext db) => _db = db;
 
-    public async Task<CampaignReport?> BuildAsync(int campaignId, CancellationToken ct)
+   private async Task<CampaignReport> BuildAsync(Campaign campaign, CancellationToken ct)
     {
-        var campaign = await _db.Campaigns
-            .Include(c => c.Organisation)
-            .FirstOrDefaultAsync(c => c.Id == campaignId, ct);
-        if (campaign is null) return null;
+        var campaignId = campaign.Id;
 
         // Events at the campaign's outlets during the flight
         var events =
@@ -56,5 +54,29 @@ public class ReportService
             impressions,
             uniqueUsers,
             surveys);
+    }
+    /// <summary>
+    /// Report for a signed-in caller. Returns null when the campaign does not exist OR belongs to another
+    /// organisation, so the endpoint answers 404 either way and does not reveal which ids exist.
+    /// </summary>
+    public async Task<CampaignReport?> BuildForUserAsync(int campaignId, CurrentUser user, CancellationToken ct)
+    {
+        var campaign = await _db.Campaigns
+            .VisibleTo(user)
+            .Include(c => c.Organisation)
+            .FirstOrDefaultAsync(c => c.Id == campaignId, ct);
+        return campaign is null ? null : await BuildAsync(campaign, ct);
+    }
+
+    /// <summary>
+    /// Report with NO organisation check. Only for trusted, system-initiated callers such as the
+    /// CampaignEnded consumer, which has no signed-in user. Never call this from a request handler.
+    /// </summary>
+    public async Task<CampaignReport?> BuildForSystemAsync(int campaignId, CancellationToken ct)
+    {
+        var campaign = await _db.Campaigns
+            .Include(c => c.Organisation)
+            .FirstOrDefaultAsync(c => c.Id == campaignId, ct);
+        return campaign is null ? null : await BuildAsync(campaign, ct);
     }
 }
