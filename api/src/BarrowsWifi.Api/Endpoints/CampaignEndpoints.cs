@@ -120,7 +120,7 @@ public static class CampaignEndpoints
 
             await db.SaveChangesAsync(ct);
             return Results.Ok(ToDetail(campaign));
-        });
+        }).RequireAuthorization("CanEditCampaigns"); ;
     }
 
     private static CampaignDetail ToDetail(Campaign c) => new(
