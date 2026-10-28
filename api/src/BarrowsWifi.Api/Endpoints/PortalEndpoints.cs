@@ -1,5 +1,6 @@
 using BarrowsWifi.Api.Data;
 using BarrowsWifi.Api.Domain;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 
 namespace BarrowsWifi.Api.Endpoints;
@@ -50,7 +51,8 @@ public static class PortalEndpoints
 
             var outletId = await db.Outlets.Where(o => o.StpNumber == stp).Select(o => (int?)o.Id).FirstOrDefaultAsync(ct);
             if (outletId is null) return Results.BadRequest("Unknown outlet.");
-
+// a repeat is acknowledged but not stored again           
+if (await db.ConnectionEvents.AnyAsync(e => e.EventId == req.EventId, ct)) return Results.Accepted();
             db.ConnectionEvents.Add(new ConnectionEvent
             {
                 EventId = req.EventId,
@@ -61,8 +63,12 @@ public static class PortalEndpoints
                 OccurredAt = req.OccurredAt,
                 Msisdn = req.Msisdn,
             });
-            await db.SaveChangesAsync(ct);
-            return Results.Accepted();
+            try { await db.SaveChangesAsync(ct); }
+catch (DbUpdateException ex) when (ex.InnerException is SqlException { Number: 2601 or 2627 })
+{
+    return Results.Accepted();   // two retries raced; the unique index let one in
+}
+return Results.Accepted();
         });
     }
 }

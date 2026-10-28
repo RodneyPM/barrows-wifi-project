@@ -49,6 +49,7 @@ public class AppDbContext : DbContext
         {
             e.ToTable("ConnectionEvents");
             e.Property(x => x.ReceivedAt).HasDefaultValueSql("SYSDATETIMEOFFSET()");
+            e.HasIndex(x => x.EventId).IsUnique();   // <-- NEW
         });
 
         b.Entity<CampaignSummary>().ToTable("CampaignSummaries");
