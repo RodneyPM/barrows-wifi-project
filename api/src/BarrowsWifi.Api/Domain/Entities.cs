@@ -115,3 +115,24 @@ public class SentEmail
     public string Body { get; set; } = "";
     public DateTimeOffset SentAt { get; set; }
 }
+
+public static class CampaignEmailDeliveryStatus
+{
+    public const string Pending = "Pending";
+    public const string Sending = "Sending";
+    public const string Sent = "Sent";
+    public const string Unknown = "Unknown";
+    public const string Failed = "Failed";
+}
+
+public class CampaignEmailDelivery
+{
+    public int Id { get; set; }
+    public int CampaignId { get; set; }
+    public string ToAddress { get; set; } = "";
+    public string Status { get; set; } = CampaignEmailDeliveryStatus.Pending;
+    public DateTimeOffset CreatedAt { get; set; }
+    public DateTimeOffset? AttemptedAt { get; set; }
+    public DateTimeOffset? CompletedAt { get; set; }
+    public string? LastError { get; set; }
+}
