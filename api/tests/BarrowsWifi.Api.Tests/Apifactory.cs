@@ -76,9 +76,30 @@ public class ApiFactory : WebApplicationFactory<Program>
             db.Campaigns.AddRange(
                 NewCampaign(KwelaCampaign, KwelaOrg, "Summer Refresh"),
                 NewCampaign(ShisaCampaign, ShisaOrg, "Lager Launch"));
+            db.ConnectionEvents.AddRange(
+                // Outlet 1 is in BOTH campaigns and both fly on the same dates (like Summer Refresh and
+                // Heritage Month Braai in the real data), so "events at the outlet" mixes them up.
+                NewEvent(KwelaCampaign, EventTypes.AdComplete, "dev-1", 4),
+                NewEvent(KwelaCampaign, EventTypes.AdComplete, "dev-1", 5),
+                NewEvent(KwelaCampaign, EventTypes.AdComplete, "dev-2", 6),
+                NewEvent(KwelaCampaign, EventTypes.SurveyComplete, "dev-1", 6),
+                NewEvent(ShisaCampaign, EventTypes.AdComplete, "dev-3", 7),
+                NewEvent(ShisaCampaign, EventTypes.AdComplete, "dev-4", 8),
+                // Exactly at the (exclusive) end of the flight: must not be counted.
+                NewEvent(KwelaCampaign, EventTypes.AdComplete, "dev-5", 30));
             db.SaveChanges();
             _seeded = true;
         }
+    }
+
+    private static ConnectionEvent NewEvent(int campaignId, string type, string device, int daysIntoFlight)
+    {
+        var at = FlightStart.AddDays(daysIntoFlight);
+        return new ConnectionEvent
+        {
+            EventId = Guid.NewGuid(), OutletId = 1, CampaignId = campaignId, DeviceHash = device,
+            EventType = type, OccurredAt = at, ReceivedAt = at,
+        };
     }
 
     // Draft, so the background lifecycle service leaves the seed data alone.

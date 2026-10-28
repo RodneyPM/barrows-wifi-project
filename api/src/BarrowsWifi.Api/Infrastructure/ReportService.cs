@@ -27,13 +27,10 @@ public class ReportService
         var campaignId = campaign.Id;
 
         // Events at the campaign's outlets during the flight
-        var events =
-            from e in _db.ConnectionEvents
-            join co in _db.CampaignOutlets on e.OutletId equals co.OutletId
-            where co.CampaignId == campaignId
-                  && e.OccurredAt >= campaign.StartsAt
-                  && e.OccurredAt < campaign.EndsAt
-            select e;
+       var events = _db.ConnectionEvents.Where(e =>
+        e.CampaignId == campaignId
+        && e.OccurredAt >= campaign.StartsAt
+        && e.OccurredAt < campaign.EndsAt);
 
         var impressions = await events.CountAsync(e => e.EventType == EventTypes.AdComplete, ct);
         var uniqueUsers = await events
