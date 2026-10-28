@@ -28,8 +28,7 @@ const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms))
 
 /** Fire-and-forget event with retries, because outlet backhaul is often slow. */
 export async function sendEvent(stp: string, eventType: EventType, campaignId: number | null, msisdn?: string) {
-  for (let attempt = 1; attempt <= 3; attempt++) {
-    const payload = {
+  const payload = {
       eventId: crypto.randomUUID(),
       stpNumber: stp,
       campaignId,
@@ -38,6 +37,8 @@ export async function sendEvent(stp: string, eventType: EventType, campaignId: n
       occurredAt: new Date().toISOString(),
       msisdn: msisdn ?? null,
     }
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    
     try {
       const controller = new AbortController()
       const timer = setTimeout(() => controller.abort(), 4000)
