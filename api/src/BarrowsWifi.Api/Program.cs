@@ -69,7 +69,11 @@ var app = builder.Build();
 
 // Apply database scripts on startup (local + test environments).
 var scriptsFolder = Path.Combine(AppContext.BaseDirectory, "db", "migrations");
-await DbMigrator.RunAsync(connectionString, scriptsFolder, app.Logger);
+// Integration tests host the API against an in-memory database and set the "Testing" environment.
+if (!app.Environment.IsEnvironment("Testing"))
+{
+    await DbMigrator.RunAsync(connectionString, scriptsFolder, app.Logger);
+}
 
 app.UseSerilogRequestLogging();
 app.UseCors();
