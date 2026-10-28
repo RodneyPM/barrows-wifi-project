@@ -15,6 +15,7 @@ public class AppDbContext : DbContext
     public DbSet<ConnectionEvent> ConnectionEvents => Set<ConnectionEvent>();
     public DbSet<CampaignSummary> CampaignSummaries => Set<CampaignSummary>();
     public DbSet<SentEmail> SentEmails => Set<SentEmail>();
+    public DbSet<CampaignEmailDelivery> CampaignEmailDeliveries => Set<CampaignEmailDelivery>();
 
     protected override void OnModelCreating(ModelBuilder b)
     {
@@ -49,10 +50,24 @@ public class AppDbContext : DbContext
         {
             e.ToTable("ConnectionEvents");
             e.Property(x => x.ReceivedAt).HasDefaultValueSql("SYSDATETIMEOFFSET()");
-            e.HasIndex(x => x.EventId).IsUnique();   // <-- NEW
+            // Repeated deliveries of the same event are stored once (006_unique_event_id.sql).
+            e.HasIndex(x => x.EventId).IsUnique();
         });
 
-        b.Entity<CampaignSummary>().ToTable("CampaignSummaries");
+        b.Entity<CampaignSummary>(e =>
+        {
+            e.ToTable("CampaignSummaries");
+            // One summary per campaign, so every email carries the same stored numbers.
+            e.HasIndex(x => x.CampaignId).IsUnique();
+        });
+
         b.Entity<SentEmail>().ToTable("SentEmails");
+
+        b.Entity<CampaignEmailDelivery>(e =>
+        {
+            e.ToTable("CampaignEmailDeliveries");
+            // One delivery record per campaign and recipient: this is what makes "once" enforceable.
+            e.HasIndex(x => new { x.CampaignId, x.ToAddress }).IsUnique();
+        });
     }
 }
