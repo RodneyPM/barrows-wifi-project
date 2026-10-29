@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import _ from 'lodash'
 import moment from 'moment'
 import hero from './assets/hero.png'
@@ -28,7 +28,7 @@ export default function App() {
   const [msisdn, setMsisdn] = useState('')
   const [remaining, setRemaining] = useState(AD_SECONDS)
   const [answers, setAnswers] = useState<string[]>([])
-  const questions = _.shuffle(QUESTIONS)
+  const questions = useMemo(() => _.shuffle(QUESTIONS), [])
 
   useEffect(() => {
     getConfig(stp)
@@ -54,7 +54,7 @@ export default function App() {
 
   function start() {
     sendEvent(stp, 'portal_view', config?.campaignId ?? null, msisdn || undefined)
-    setScreen(Object.hasOwn(config ?? {}, 'campaignId') && config?.campaignId ? 'ad' : 'done')
+    setScreen(config?.campaignId ? 'ad' : 'done')
   }
 
   function answer(option: string) {
@@ -107,7 +107,7 @@ export default function App() {
           <>
             <p className="text-sm text-slate-400">
               Question {answers.length + 1} of {QUESTIONS.length}
-              {answers.at(-1) ? ` · last answer: ${answers.at(-1)}` : ''}
+              {answers[answers.length - 1] ? ` · last answer: ${answers[answers.length - 1]}` : ''}
             </p>
             <h2 className="text-xl font-semibold">{questions[answers.length]?.text}</h2>
             <div className="space-y-3">
